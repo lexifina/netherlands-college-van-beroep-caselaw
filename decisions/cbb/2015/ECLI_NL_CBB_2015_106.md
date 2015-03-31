@@ -10,7 +10,6 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2015:106"
 published_in: ["Rechtspraak.nl", "PJ 2015/86 met annotatie van M.J.C.M. van der Poel", "ABkort 2015/172"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2013:5157, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:CBB:2015:106 College van Beroep voor het bedrijfsleven , 31-03-2015 / AWB 13/601 ea
