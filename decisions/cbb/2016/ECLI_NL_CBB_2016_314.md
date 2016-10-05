@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2016:314"
-published_in: ["Rechtspraak.nl", "RZA 2016/27", "AB 2017/16 met annotatie van Redactie", "GZR-Updates.nl 2016-0447"]
+published_in: ["Rechtspraak.nl", "RZA 2016/27", "AB 2017/16 met annotatie van A.C. Hendriks", "GZR-Updates.nl 2016-0447"]
 ---
 
 # ECLI:NL:CBB:2016:314 College van Beroep voor het bedrijfsleven , 05-10-2016 / 15/559
