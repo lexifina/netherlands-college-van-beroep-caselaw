@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak bestuurlijke lus"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2017:343"
-published_in: ["Rechtspraak.nl", "BA 2017/327", "AB 2017/430 met annotatie van R. Stijnen", "RF 2018/7", "NJB 2017/2109", "M en R 2018/25 met annotatie van Mr. A.M.C.C. Tubbing", "JB 2017/217", "JOM 2017/1171", "JBO 2017/246 met annotatie van mr. drs. D. van der Meijden", "TvAR 2017/5909, UDH:TvAR/14720 met annotatie van P.G. Grijpstra"]
+published_in: ["Rechtspraak.nl", "BA 2017/327", "AB 2017/430 met annotatie van R. Stijnen", "RF 2018/7", "NJB 2017/2109", "M en R 2018/25 met annotatie van A.M.C.C. Tubbing", "JB 2017/217", "JOM 2017/1171", "JBO 2017/246 met annotatie van mr. drs. D. van der Meijden", "TvAR 2017/5909, UDH:TvAR/14720 met annotatie van P.G. Grijpstra"]
 cites_law: ["netherlands/national/acts/meststoffenwet/art-007.md", "netherlands/national/acts/meststoffenwet/art-008.md"]
 ---
 
