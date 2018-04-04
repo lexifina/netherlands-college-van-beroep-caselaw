@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2018:99"
-published_in: ["Rechtspraak.nl", "NJB 2018/910", "TT 2018/53 met annotatie van Kelder, M.G.", "AB 2018/332 met annotatie van A.C. Hendriks"]
+published_in: ["Rechtspraak.nl", "NJB 2018/910", "TT 2018/53 met annotatie van mr. M.G. Kelder", "AB 2018/332 met annotatie van A.C. Hendriks"]
 ---
 
 # ECLI:NL:CBB:2018:99 College van Beroep voor het bedrijfsleven , 04-04-2018 / 16/1293
