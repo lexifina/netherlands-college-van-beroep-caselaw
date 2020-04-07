@@ -1,0 +1,120 @@
+---
+ecli: "ECLI:NL:CBB:2020:236"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "19/847, 19/848 en 19/849"
+decided: "2020-04-07"
+published: "2020-04-07"
+type: "uitspraak"
+procedure: "Tussenuitspraak bestuurlijke lus"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:236"
+published_in: ["Rechtspraak.nl", "NJB 2020/1083"]
+---
+
+# ECLI:NL:CBB:2020:236 College van Beroep voor het bedrijfsleven , 07-04-2020 / 19/847, 19/848 en 19/849
+
+## Inhoudsindicatie
+
+Wet Inkomstenbelasting 2001, Uitvoeringsregeling energie-investeringsaftrek 2001
+
+artikel 2, vierde lid, van de Bijlage bij de Uitvoeringsregeling energie-investeringsaftrek 2001
+
+Tussenuitspraak – EIA-verklaring - automatische snelheidsbeïnvloeding bij nieuwe vrachtwagens – referentie. Verweerder dient berekeningen te maken op basis van de juiste referentiegroep.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummers: 19/847, 19/848 en 19/849
+
+tussenuitspraak van de enkelvoudige kamer van 7 april 2020 in de zaken tussen
+
+[naam 1] B.V. ( [naam 1] ) te [plaats 1] , appellante in de zaak 19/847;
+
+[naam 2] B.V. ( [naam 2] ) 	te [plaats 2] , appellante in de zaak 19/848; en
+
+[naam 3] B.V. ( [naam 3] ) te [plaats 3] , appellante in de zaak 19/849
+
+(gemachtigde: mr. drs. P. Schipper)
+
+en
+
+de minister van Economische Zaken en Klimaat, verweerder
+(gemachtigden: mr. M. Wullink en W. Brinkman).
+
+Procesverloop
+
+Bij besluiten van 12 november 2018, 15 november 2018 en 20 februari 2019 (primaire besluiten) heeft verweerder de aanvragen van respectievelijk [naam 1] , [naam 3] en [naam 2] om een EIA-verklaring als bedoeld in de Wet inkomstenbelasting 2001 (Wet IB 2001) geheel of gedeeltelijk afgewezen.
+
+Bij besluiten van 8 mei 2019 (bestreden besluiten) heeft verweerder de bezwaren van appellanten tegen de primaire besluiten ongegrond verklaard.
+
+Appellanten hebben tegen de bestreden besluiten een gezamenlijk beroepschrift ingediend.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 3 december 2019. De zaken zijn gevoegd behandeld. De gemachtigden van partijen zijn verschenen.
+
+Overwegingen
+
+1.1.
+
+Alle appellanten hebben in 2018 meerdere vrachtwagens aangeschaft van het merk [merk 1] en/of [merk 2] . Bij al deze vrachtwagens is gekozen voor de optie van een intelligent systeem voor automatische snelheidsbeïnvloeding, dat bij [merk 1] “ [… 1] ” heet en bij [merk 2] “ [… 2] ”. Kenmerkend voor deze systemen is dat zij op basis van GPS-technologie en gedetailleerde wegenkaartinformatie rekening kunnen houden met de omstandigheden die de vrachtwagen zal tegenkomen, zoals hellingen. Ten opzichte van een traditioneel systeem van cruise control hebben deze systemen het voordeel dat zij bijvoorbeeld de voertuigsnelheid kort voor de top van een heuvel kunnen verlagen en een hogere voertuigsnelheid dan ingesteld kunnen toestaan voor de aanvang van een nieuwe klim. Volgens [merk 1] kan hiermee tot 5% brandstof worden bespaard. Volgens [merk 2] is de brandstofbesparing 1,5% bij normale transporttoepassingen en tot 4% op heuvelachtige wegen. Bij [merk 1] kostte deze optie € 3.150 en bij [merk 2] € 2.480. Deze automatische snelheidsbeïnvloeding is steeds het bedrijfsmiddel waarvoor een EIA-verklaring is aangevraagd.
+
+1.2
+
+[naam 1] heeft een EIA-verklaring gevraagd voor de automatische snelheidsbeïnvloeding van zeven vrachtwagens en deze is bij het primaire besluit afgewezen. [naam 2] heeft een EIA-verklaring gevraagd voor de automatische snelheidsbeïnvloeding van zeventien vrachtwagens. Verweerder heeft bij het primaire besluit een EIA-verklaring toegekend voor de elf vrachtwagens die als vervanging zijn aangemerkt en geen EIA-verklaring verstrekt voor de zes vrachtwagens die als nieuw transportmiddel zijn aangemerkt. [naam 3] heeft een EIA-verklaring gevraagd voor de automatische snelheidsbeïnvloeding van vijftien vrachtwagens en deze is bij het primaire besluit afgewezen. Alle appellanten hebben, nadat verweerder hierom had gevraagd, een berekening overgelegd van de met de automatische snelheidsbeïnvloeding te realiseren brandstofbesparing. [naam 1] is hierbij uitgegaan van de door [merk 1] genoemde 5% en komt daarmee op een besparing van 0,72 Nm3 aardgasequivalent per jaar per geïnvesteerde euro. [naam 2] , die zowel vrachtwagens van het merk [merk 1] als vrachtwagens van het merk [merk 2] heeft aangeschaft, is op basis van de door de fabrikanten genoemde besparingen uitgegaan van een gemiddelde voor beide merken van 2,5%. Zij komt daarmee op een besparing van respectievelijk 0,45 en 0,57 Nm3 aardgasequivalent per jaar per geïnvesteerde euro voor het systeem van [merk 1] en [merk 2] . Het verschil is te verklaren doordat het systeem van [merk 2] in aanschaf goedkoper is. Bij [naam 3] gaat het steeds om vrachtwagens van het merk [merk 2] . Zij becijfert de besparing op basis van de door [merk 2] genoemde gegevens op respectievelijk 0,23 en 0,61 Nm3 aardgasequivalent per jaar per geïnvesteerde euro voor normale transporttoepassingen en in heuvelachtig terrein. Daarmee is volgens appellanten in alle gevallen voldaan aan de voor transportmiddelen geldende besparingseis van ten minste 0,15 Nm³, maar niet meer dan 1,0 Nm³ aardgasequivalent per jaar per geïnvesteerde euro.
+
+1.3.
+
+Bij de beslissingen op bezwaar heeft verweerder zijn standpunt gehandhaafd dat hij - met een uitzondering ten aanzien van elf vrachtwagens in de aanvraag van [naam 2] - de investeringen terecht heeft beoordeeld onder code 440000 van de Energielijst 2018 (Technische voorzieningen voor energiebesparing bij nieuwe transportmiddelen). Bij nieuwe transportmiddelen dient het in de betreffende branche gemiddeld gangbare energiegebruik bij soortgelijke investeringen bij soortgelijke toepassingen als referentie. Het door appellanten gemelde bedrijfsmiddel heeft tot 2017 op de Energielijst gestaan. Daar is het van afgehaald omdat er signalen waren dat vrachtwagens die door internationale berggebieden rijden eigenlijk standaard al met een automatische snelheidsbegrenzing zijn uitgerust, omdat het een belangrijk kostenvoordeel oplevert ten opzichte van vrachtwagens zonder dit systeem. De referentiegroep bestaat volgens verweerder uit de internationaal actieve transporteurs die regelmatig bergachtig gebied doorkruisen en voor die groep is de automatische snelheidsbeïnvloeding derhalve al een vrij gangbare techniek. Verweerder had op de hoorzitting gevraagd om gegevens van het aantal recent verkochte internationaal actieve vrachtwagens die bergachtig gebied doorkruisen en die gegevens hebben appellanten niet kunnen overleggen. Verweerder is daarom van oordeel dat appellanten niet aannemelijk hebben gemaakt dat hun investering voldoet aan de besparingseis die is opgenomen in de Uitvoeringsregeling energie-investeringsaftrek 2001 (de Uitvoeringsregeling). Dat de aanvraag van [naam 2] met betrekking tot elf vrachtwagens is toegewezen, is omdat deze vielen onder code 340000 van de Energielijst 2018 (Technische voorzieningen voor energiebesparing bij bestaande transportmiddelen). Voor deze code geldt het historisch energiegebruik als referentie voor de berekening van de energiebesparing voor aanpassingen aan of vervanging van bestaande transportmiddelen en dat is een wezenlijk verschil met code 440000.
+
+2.1.
+
+Appellanten betwisten dat het bedrijfsmiddel gangbaar is en stellen dat verweerder zijn andersluidende standpunt niet aannemelijk heeft gemaakt. Zowel bij [merk 1] als bij [merk 2] moet het bedrijfsmiddel apart besteld en betaald worden. De dealers hebben desgevraagd telefonisch verklaard dat in 2019 de systemen nog niet standaard zijn, maar als opties verkrijgbaar. Verweerder maakt bij de in geding zijnde aanvragen onder code 440000 (uitbreiding), anders dan bij code 340000 (vervanging) en anders dan tot 2018 toen het bedrijfsmiddel nog met een eigen code op de Energielijst stond, nu opeens onderscheid tussen nationaal en internationaal gebruik van de vrachtwagens. Dat is volgens appellanten onterecht omdat met het bedrijfsmiddel zowel op vlakke als op heuvelachtige wegen brandstof wordt bespaard. RVO heeft niet geconcretiseerd op grond van welke objectieve gegevens van gangbaarheid van dit bedrijfsmiddel kan worden gesproken. Uit gegevens over 2017 van RVO respectievelijk CBS, blijkt dat er 430 EIA-meldingen waren voor automatische snelheidsbeïnvloeding en er 13.940 zware bedrijfsvoertuigen op naam zijn gezet. Hieruit volgt dat in 2017 ongeveer 3% van de nieuwe zware bedrijfsvoertuigen in Nederland is uitgerust met het bedrijfsmiddel. Uitgaande van gegevens van het CBS waaruit blijkt dat van de totale vervoersprestatie 54% internationaal en 46% nationaal is, leiden appellanten af dat 6% van de nieuwe bedrijfsvoertuigen voor internationaal transport is uitgerust met het bedrijfsmiddel. Uit deze percentages blijkt volgens hen dat het bedrijfsmiddel niet gangbaar is.
+
+3.	Het College overweegt als volgt.
+
+3.1.1.
+
+De EIA-verklaring vindt zijn grondslag in artikel 3.42 van de Wet IB 2001 en de Uitvoeringsregeling, inclusief de Bijlage behorende bij artikel 2 van de Uitvoeringsregeling (Bijlage). De investeringen waarvoor verweerder in het jaar 2018 een EIA-verklaring kan verstrekken en de bijbehorende vereiste energiebesparing zijn vermeld in de Bijlage en zijn door verweerder ook vermeld in de brochure Energielijst 2018.
+
+3.1.2.
+
+Ingevolge artikel 1, aanhef en onder C, van de Bijlage, als ook vermeld bij code 440000 in de Energielijst 2018, worden als energie-investeringen aangemerkt: Investeringen in technische voorzieningen voor energiebesparing in of aan nieuwe transportmiddelen. Ingevolge die bepaling moet de energiebesparing gebaseerd zijn op dezelfde rij- of vaarroute, waarbij wordt uitgegaan van dezelfde goederen en van een maximale belading. Ingevolge artikel 2, eerste lid, van de Bijlage, moet de besparing ten minste 0,15 Nm3, maar niet meer dan 1,0 Nm3 aardgasequivalent per jaar per geïnvesteerde euro bedragen (besparingseis). Ingevolge artikel 2, vierde lid, van de Bijlage, moet als referentie voor de berekening van de energiebesparing het in de betreffende branche gemiddeld gangbare energiegebruik bij soortgelijke nieuwe investeringen bij vergelijkbare toepassingen worden genomen.
+
+3.2.
+
+In deze gedingen is de vraag aan de orde of verweerder de aanvragen terecht heeft afgewezen op de grond dat appellanten niet aannemelijk hebben gemaakt dat het door hen gemelde bedrijfsmiddel voldoet aan de besparingseis.
+
+3.3.
+
+De gedingen spitsen zich toe op de vraag van welke referentie als bedoeld in artikel 2, vierde lid, van de Bijlage moet worden uitgegaan. Appellanten zijn bij hun berekeningen uitgegaan van vrachtwagens zonder het bedrijfsmiddel, terwijl volgens verweerder vrachtwagens die internationaal actief zijn en daarbij regelmatig bergachtig gebied doorkruisen als referentiegroep dienen te worden gebruikt.
+
+3.4.
+
+Het College stelt vast dat appellanten bij hun aanvragen, als hiervoor onder 1.2 vermeld, bij de berekening van de energiebesparing zijn uitgegaan van de door de fabrikanten van het bedrijfsmiddel geclaimde brandstofbesparing in procenten. Zij hebben daarmee de besparing niet berekend op een wijze als bedoeld in artikel 2, vierde lid, van de Bijlage. Dit brengt echter nog niet met zich dat het standpunt van verweerder kan worden gevolgd. Het College stelt in dit verband, in lijn met zijn uitspraak van 8 juli 2010, ECLI:NL:CBB:2010:BN4148, voorop dat, waar de toepassing en de uitleg van de Wet IB 2001 en de Uitvoeringsregeling in handen liggen van verweerder, het aan verweerder is te bepalen wat in een geval als het onderhavige dient te worden verstaan onder het gemiddeld gangbare energiegebruik, als bedoeld in artikel 2, vierde lid, van de Regeling. Verweerder moet daarover een zelfstandig oordeel vormen na de daarvoor benodigde gegevens te hebben vergaard en kan de hantering van dit begrip in de concrete situatie niet geheel afhankelijk stellen van gegevens die de aanvrager in dat verband naar voren heeft gebracht.
+
+3.5.
+
+Het College stelt voorts vast dat, zoals met name uit het verslag van de op 17 april 2019 gehouden hoorzitting blijkt, verweerder in zijn besluitvorming niet heeft betrokken op welke routes appellanten als transporteur actief zijn: nationaal en/of internationaal en veelvuldig in bergachtige gebieden rijdend of niet. In dit licht is het niet voor de hand liggend om als referentiegroep uitsluitend de vrachtwagens te nemen die internationaal actief zijn en hierbij regelmatig bergachtig gebied doorkruisen. Dit standpunt staat op gespannen voet met artikel 1, aanhef en onder C, van de Bijlage, waarin is bepaald dat de energiebesparing van het transportmiddel gebaseerd moet zijn op dezelfde rijroute. Voorts gaat verweerder er voetstoots vanuit dat binnen de door hem gebruikte referentiegroep alle vrachtwagens met een systeem van automatische snelheidsbeïnvloeding zijn uitgerust, anders laat immers zijn standpunt dat in het geheel geen sprake is van energiebesparing ten opzichte van de referentiegroep zich niet verklaren. Dat verweerder dit standpunt huldigt, wordt bevestigd door zijn verweerschrift waarin bijvoorbeeld een kopje is opgenomen met als titel “Gangbare techniek dus besparing is nul”. Dat het percentage vrachtwagens dat met het systeem is uitgerust wellicht (aanmerkelijk) hoger ligt dat de door appellanten becijferde 3% onderscheidenlijk 6%, doet hier niet aan af. Daarnaast stelt het College vast dat verweerder er, blijkens eveneens het verweerschrift, van uit gaat dat het bedrijfsmiddel enkel interessant is voor transportondernemers die daadwerkelijk door de bergen rijden. Dit standpunt laat zich niet rijmen met de - door verweerder niet betwiste - gegevens van [merk 2] die erop neerkomen dat ook bij normaal transportgebruik een brandstofbesparing van 1,5% wordt gerealiseerd.
+
+3.6.
+
+Het College begrijpt op zich het standpunt van verweerder dat het niet wenselijk is dat stimulering plaatsvindt van investeringen, die ook zonder stimulering zouden plaatsvinden. De eis van artikel 2, eerste lid, van de Bijlage, dat voor transportmiddelen de besparing ten minste 0,15 Nm3, maar niet meer dan 1,0 Nm3 aardgasequivalent per jaar per geïnvesteerde euro moet bedragen, laat echter een ruime marge. Ter zitting heeft het College de vraag opgeworpen hoe de berekende besparing ten aanzien van de referentiegroep zou uitvallen indien niet alle vrachtwagens uit de referentiegroep, maar bijvoorbeeld de helft, zouden zijn uitgerust met het bedrijfsmiddel en of de aldus berekende besparing niet binnen de bandbreedte zou vallen. Verweerder antwoordde hierop dat hij dit zou moeten narekenen en daarbij ook de besparing bij normaal transportgebruik zou moeten betrekken. Het College is van oordeel dat verweerder deze berekeningen ten onrechte heeft nagelaten, alsnog dient uit te voeren en daarbij dient te betrekken hetgeen hiervoor is overwogen. Het College begrijpt dat ook van verweerder niet kan worden gevergd dat deze met heel precieze gegevens komt en benadrukt dat de ter zitting genoemde “helft” een volstrekt willekeurig voorbeeld was, waaraan geen enkele zeggingskracht toekomt. Het College zal voor het uitvoeren van de bedoelde berekeningen door verweerder een termijn van acht weken na verzending van deze tussenuitspraak stellen. Het College is voornemens om vervolgens, na appellanten in de gelegenheid te hebben gesteld hun zienswijze naar voren te brengen, in beginsel zonder tweede zitting uitspraak doen op het beroep.
+
+4. Het College houdt iedere verdere beslissing aan.
+
+Beslissing
+
+Het College:
+
+- draagt verweerder op om binnen acht weken na verzending van deze tussenuitspraak het gebrek in de bestreden besluiten te herstellen met inachtneming van de overwegingen in deze tussenuitspraak;
+
+- houdt iedere verdere beslissing aan.
+
+Deze uitspraak is gedaan door mr. H.O. Kerkmeester in aanwezigheid van mr. J.W.E. Pinckaers, griffier en in het openbaar uitgesproken op 7 april 2020.
+
+w.g. H.O. Kerkmeester	De griffier is verhinderd de uitspraak te ondertekenen.
