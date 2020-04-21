@@ -1,0 +1,116 @@
+---
+ecli: "ECLI:NL:CBB:2020:292"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "18/2797"
+decided: "2020-04-21"
+published: "2020-04-21"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:292"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:292 College van Beroep voor het bedrijfsleven , 21-04-2020 / 18/2797
+
+## Inhoudsindicatie
+
+Fosfaatrechten. Artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP). Gelet op het moment waarop appellante de beslissing tot uitbreiding heeft genomen (in 2011), is de mate waarin zij heeft willen uitbreiden met de daarmee gemoeide investeringen niet goed navolgbaar. Een uitbreiding als hier aan de orde van ongeveer 140 melk- en kalfkoeien en 120 stuks jongvee in 2011 naar 292 melk- en kalfkoeien en 209 stuks jongvee is aanzienlijk. Nadat in 2009 bekend werd dat het melkquotum zou worden afgeschaft (zie de uitspraak van 23 juli 2019, hiervoor aangehaald, onder 1.2 en 6.7.5.3) en bijgevolg een einde zou komen aan de begrenzing van mestproductie voor rundvee, had voor melkveehouders als appellante redelijkerwijs duidelijk moeten zijn dat een ongeremde groei van de melkveehouderij niet mogelijk was en dat in verband met die afschaffing maatregelen te verwachten waren. Appellante had ten tijde van haar investeringen een zekere mate van voorzichtigheid moeten betrachten en zich moeten realiseren dat die uitbreiding en de daarmee gemoeide investeringen voor haar meer dan de gebruikelijke ondernemersrisico’s met zich zou brengen.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 18/2797
+
+uitspraak van de enkelvoudige kamer van 21 april 2020 in de zaak tussen
+
+[naam 1] V.O.F., te [plaats] , appellante
+(gemachtigde: mr. E. Wijnne),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder.
+
+Procesverloop
+
+Bij besluit van 5 januari 2018 (het primaire besluit) heeft verweerder op grond van artikel 23, derde lid, van de Meststoffenwet (Msw) het fosfaatrecht van appellante vastgesteld.
+
+Bij besluit van 16 oktober 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante ongegrond verklaard.
+
+Appellante heeft beroep ingesteld tegen het bestreden besluit.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Met toestemming van partijen is het onderzoek ter zitting achterwege gelaten.
+
+Overwegingen
+
+Relevante bepalingen
+
+1.1
+
+Ingevolge artikel 23, derde lid, van de Msw stelt de minister het op een bedrijf rustende fosfaatrecht per 1 januari 2018 vast in overeenstemming met de forfaitaire productie van dierlijke meststoffen in een kalenderjaar door melkvee dat op 2 juli 2015 (ook wel peildatum) op het bedrijf is gehouden en geregistreerd.
+
+1.2
+
+Het recht op eigendom is neergelegd in artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP). Het verzekert het recht op het ongestoord genot van eigendom, maar tast op geen enkele wijze het recht aan dat een Staat heeft om die wetten toe te passen die hij noodzakelijk oordeelt om het gebruik van eigendom te reguleren in overeenstemming met het algemeen belang.
+
+Feiten
+
+2. Appellante exploiteert een melkveehouderij. In 2011 heeft appellante het plan opgevat het bedrijf uit te breiden. Zij hield in 2011 ongeveer 140 melk- en kalfkoeien en 120 stuks jongvee. In december 2011 heeft appellante een omgevingsvergunning verkregen voor de bouw van een nieuwe stal met capaciteit voor 260 melk- en kalfkoeien en bijbehorend jongvee. Appellante is eind 2012 financieringsverplichtingen aangegaan ter hoogte van ongeveer 1,3 miljoen euro. Op 4 april 2013 is aan appellante een vergunning verleend op grond van de Natuurbeschermingswet 1998 voor het houden van 292 melk- en kalfkoeien en 209 stuks jongvee. In 2013 is de stal gerealiseerd. Op de peildatum hield appellante niet de beoogde dieraantallen. Zij hield toen 233 melk- en kalfkoeien en 168 stuks jongvee.
+
+Besluiten van verweerder
+
+3. Verweerder heeft het fosfaatrecht van appellante vastgesteld op 11.378 kg. Hij is daarbij uitgegaan van de dieraantallen die op de peildatum op het bedrijf aanwezig waren. Verweerder heeft de generieke korting van 8,3% toegepast. Bij het bestreden besluit heeft hij het primaire besluit gehandhaafd.
+
+Beroepsgronden
+
+4. Appellante voert aan dat in haar geval sprake is van een individuele en buitensporige last. Op de peildatum was de stal van appellante nog niet volledig bezet. De investeringsverplichtingen en financieringen die appellante ruim voor de peildatum is aangegaan zien op volledige benutting van de stalcapaciteit. Voor appellante was ten tijde van het aangaan van die investeringsverplichtingen niet voorzienbaar dat die uitbreiding niet mogelijk of in de toekomst beperkt zou worden. Appellante had voor de peildatum ook alle benodigde vergunningen verkregen. Ter onderbouwing van haar betoog dat sprake is van een individuele en buitensporige last, heeft appellante een rapport van [naam 2] (rapport) van 17 april 2018 overgelegd, waarin een drietal scenario’s is uitgewerkt, namelijk het oorspronkelijke plan van appellante, het oorspronkelijke plan met de aankoop van fosfaatrechten en de veebezetting op basis van het toegekende fosfaatrecht. Uit het rapport blijkt dat de invoering van het fosfaatrechtenstelsel een zeer serieuze bedreiging vormt voor de continuïteit van het melkveebedrijf. Tot slot voert appellante aan dat verweerder niet concreet op het betoog over de individuele en buitensporige last is ingegaan en het bestreden besluit daarom onzorgvuldig is voorbereid en niet deugdelijk is gemotiveerd.
+
+Standpunt van verweerder
+
+5. Verweerder betwist dat op appellante een individuele en buitensporige last rust.
+
+Ten tijde dat appellante ging investeringen had voor haar redelijkerwijs duidelijk moeten zijn dat ongeremde groei niet mogelijk zou zijn en had zij een zekere mate van voorzichtigheid moeten betrachten. Appellante heeft voorts niet aangevoerd dat sprake was van een bedrijfseconomische noodzaak tot uitbreiding. Verweerder stelt zich verder op het standpunt dat het bestreden besluit zorgvuldig is voorbereid. Appellante is verschillende keren in de gelegenheid gesteld stukken te overleggen om de individuele en buitensporige last te onderbouwen.
+
+Beoordeling
+
+6.1
+
+Het College heeft eerder geoordeeld dat het fosfaatrechtenstelsel op het niveau van de regeling verenigbaar is met artikel 1 van het EP. Het College verwijst hiervoor naar zijn heropeningsbeslissing van 17 oktober 2018 (ECLI:NL:CBB:2018:522) en uitspraken van 9 januari 2019 (ECLI:NL:CBB:2019:1-7). In de uitspraak van 23 juli 2019 (ECLI:NL:CBB:2019:291) heeft het College dit oordeel verder gemotiveerd.
+
+6.2
+
+Bij de beoordeling of een last in het individuele geval van de betrokken melkveehouder buitensporig is moeten alle betrokken belangen van het individuele geval worden afgewogen. In dat verband is vooral relevant de mate waarin het fosfaatrechtenstelsel de individuele melkveehouder raakt. Niet ieder vermogensverlies als gevolg van het fosfaatrechtenstelsel en het toegekende fosfaatrecht vormt een buitensporige last. Voor de situatie waarin sprake is van een uitbreiding van het bedrijf, zoals bij appellante, is verder van belang of en zo ja op welk moment, in welke mate en met welke noodzaak of andere motieven de melkveehouder zijn bedrijf legaal heeft uitgebreid op grond van door de overheid verleende vergunningen voor het houden van specifieke aantallen melkvee en daartoe onomkeerbare investeringen is aangegaan (zie de uitspraak van 23 juli 2019 (ECLI:NL:CBB:2019:291, onder 6.8.2). In de uitspraak van 25 februari 2020 (ECLI:NL:CBB:2020:114), onder 6.2 en verder heeft het College zijn beoordelingskader voor de fair balance op individueel niveau en daarmee over de individuele en buitensporige last nader gemotiveerd.
+
+6.3
+
+Het College stelt vast dat appellante ten opzichte van het toegekende aantal fosfaatrechten (11.078 kg) een behoorlijk aantal fosfaatrechten tekortkomt om haar vergunde stalcapaciteit te benutten en haar bedrijfsvoering te kunnen uitvoeren. Het College wil wel aannemen dat appellante door het fosfaatrechtenstelsel financieel wordt geraakt, maar dat betekent niet dat daarom reeds sprake is van een individuele en buitensporige last. Voor zover dat tekort het gevolg is van de door verweerder toegepaste korting op het fosfaatrecht, moet worden geoordeeld dat appellante in zoverre niet individueel wordt getroffen door het fosfaatrechtenstelsel, omdat die korting wordt toegepast op alle melkveehouders met uitzondering van grondgebonden bedrijven. De beslissing van appellante om het bedrijf uit te breiden moet worden gezien als ondernemersbeslissing waaraan risico’s inherent zijn en waarvan appellante in beginsel zelf de nadelige gevolgen draagt. Het College hanteert als uitgangspunt dat de individuele melkveehouder zelf de gevolgen van die risico’s draagt; deze kan hij niet afwentelen op het collectief (zie de hiervoor genoemde uitspraak van 25 februari 2020, onder 6.9). Dit uitgangspunt wordt alleen bij uitzondering verlaten. Daarvoor moet dan wel de genomen beslissing in de gegeven omstandigheden - wat betreft het tijdstip waarop de beslissing is genomen, de omstandigheden waaronder de beslissing is genomen, de mate waarin is geïnvesteerd en de reden waarom is geïnvesteerd - navolgbaar zijn, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren waarover het College in zijn uitspraak van 23 juli 2019 (hiervoor aangehaald, onder 6.7.5.4) heeft geoordeeld. Bovendien moeten er goede redenen zijn om aan te nemen dat de last buitensporig is en aldus geen evenwicht bestaat tussen de belangen die zijn gediend met het fosfaatrechtenstelsel (de bescherming van het milieu en de volksgezondheid en het voldoen aan de verplichtingen die voortvloeien uit de Nitraatrichtlijn) en de belangen van de melkveehouder (zie de hiervoor genoemde uitspraak van 25 februari 2020, onder 6.9).
+
+6.4
+
+In wat appellante heeft aangevoerd ziet het College geen aanleiding om van dit uitgangspunt af te wijken. Gelet op het moment waarop appellante de beslissing tot uitbreiding heeft genomen (in 2011), is de mate waarin zij heeft willen uitbreiden met de daarmee gemoeide investeringen niet goed navolgbaar. Een uitbreiding als hier aan de orde van ongeveer 140 melk- en kalfkoeien en 120 stuks jongvee in 2011 naar 292 melk- en kalfkoeien en 209 stuks jongvee is aanzienlijk. Nadat in 2009 bekend werd dat het melkquotum zou worden afgeschaft (zie de uitspraak van 23 juli 2019, hiervoor aangehaald, onder 1.2 en 6.7.5.3) en bijgevolg een einde zou komen aan de begrenzing van mestproductie voor rundvee, had voor melkveehouders als appellante redelijkerwijs duidelijk moeten zijn dat een ongeremde groei van de melkveehouderij niet mogelijk was en dat in verband met die afschaffing maatregelen te verwachten waren. Appellante had ten tijde van haar investeringen een zekere mate van voorzichtigheid moeten betrachten en zich moeten realiseren dat die uitbreiding en de daarmee gemoeide investeringen voor haar meer dan de gebruikelijke ondernemersrisico’s met zich zou brengen (zie bijvoorbeeld de uitspraken van 9 januari 2019, ECLI:NL:CBB:2019:2, onder 5.4.2, en ECLI:NL:CBB:2019:3, onder 5.5, van 23 juli 2019, ECLI:NL:CBB:2019:291, onder 6.8.3.3, van 26 november 2019, ECLI:NL:CBB:2019:729, onder 6.5, en van 7 januari 2020, ECLI:NL:CBB: 2020:9, onder 6.3). Aan het door appellante overgelegde rapport komt ook niet de waarde toe die zij daaraan gehecht wenst te zien. Het College wijst er in dit verband op dat hij, zoals ook overwogen in zijn uitspraak van 25 februari 2020 (hiervoor aangehaald, onder 6.13), aan de financiële rapportages die verweerder met de informatie op zijn website (mijn.rvo.nl) heeft uitgelokt, in procedures als hier aan de orde slechts een beperkte waarde toekent.
+
+7. Het College is tot slot van oordeel dat appellante wel terecht heeft aangevoerd dat het bestreden besluit onvoldoende is gemotiveerd, omdat daarin niet specifiek is ingegaan op het betoog van appellante over de individuele en buitensporige last. Pas in het verweerschrift is hier nader op ingegaan. Het bestreden besluit is daarom in strijd met artikel 7:12, eerste lid, van de Algemene wet bestuursrecht (Awb). Het College ziet aanleiding dit gebrek te passeren met toepassing van artikel 6:22 van de Awb, aangezien aannemelijk is dat appellante door dit gebrek niet is benadeeld. Met een deugdelijke motivering zou een besluit met gelijke uitkomst zijn genomen. Dit leidt ertoe dat het beroep ongegrond zal worden verklaard.
+
+Slotsom
+
+8. Gezien het geconstateerde gebrek ziet het College aanleiding te bepalen dat het door appellante betaalde griffierecht aan haar wordt vergoed en verweerder te veroordelen in de proceskosten van appellante in beroep. Deze kosten worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 525,- (1 punt voor het indienen van het beroepschrift, met een waarde per punt van € 525,- en een wegingsfactor 1).
+
+Beslissing
+
+Het College:
+
+- verklaart het beroep ongegrond;
+
+- bepaalt dat verweerder het betaalde griffierecht van € 338,- aan appellante dient te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 525,-.
+
+Deze uitspraak is gedaan door mr. A. Venekamp, in aanwezigheid van mr. J.M.M. van Dalen, griffier. De beslissing is in het openbaar uitgesproken op 21 april 2020.
+
+De voorzitter is verhinderd te ondertekenen.			De griffier is verhinderd te ondertekenen.
