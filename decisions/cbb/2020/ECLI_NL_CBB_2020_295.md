@@ -1,0 +1,121 @@
+---
+ecli: "ECLI:NL:CBB:2020:295"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "19/388"
+decided: "2020-04-21"
+published: "2020-04-21"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:295"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:295 College van Beroep voor het bedrijfsleven , 21-04-2020 / 19/388
+
+## Inhoudsindicatie
+
+Einduitspraak. Last onder dwangsom.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 19/388
+
+uitspraak van de enkelvoudige kamer van 21 april 2020 in de zaak tussen
+
+[naam 1]
+, te [plaats] , appellant
+
+(gemachtigde: [naam 2] ),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. M.M. de Vries).
+
+Procesverloop
+
+Bij besluit van 29 maart 2018 (het primaire besluit) heeft verweerder aan appellant een last onder dwangsom opgelegd wegens overtreding van de Wet dieren en het Besluit houders van dieren (Bhd).
+
+Bij besluit van 4 juli 2018 (het invorderingsbesluit) heeft verweerder aan appellant meegedeeld dat niet is voldaan aan de opgelegde last en dat daarom een verbeurde dwangsom van € 10.000,- wordt ingevorderd.
+
+Bij besluit van 10 januari 2019 (het bestreden besluit I) heeft verweerder het bezwaar van appellant gericht tegen het primaire besluit en het invorderingsbesluit ongegrond verklaard.
+
+Appellant heeft tegen het bestreden besluit I beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 7 november 2019. Appellant heeft zich laten vertegenwoordigen door zijn gemachtigde. Aan de kant van appellant zijn tevens verschenen [naam 3] en [naam 4] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam 5] .
+
+Het College heeft in het geding tussen partijen op 7 januari 2020 een tussenuitspraak gedaan (ECLI:NL:CBB:2020:7).
+
+Naar aanleiding van deze tussenuitspraak heeft verweerder op 30 januari 2020 een nieuw besluit genomen (het bestreden besluit II).
+
+Appellant heeft gebruik gemaakt van de gelegenheid om ten aanzien van het bestreden besluit II een zienswijze in te dienen.
+
+Het College heeft vervolgens op grond van artikel 8:57, tweede lid, aanhef en onder c, van de Algemene wet bestuursrecht (Awb) bepaald dat een nader onderzoek ter zitting achterwege blijft en het onderzoek met toepassing van artikel 8:57, derde lid, van de Awb gesloten.
+
+Overwegingen
+
+1. Voor de voorgeschiedenis en de achtergrond van het geschil verwijst het College naar de hierboven genoemde tussenuitspraak.
+
+2. In de tussenuitspraak heeft het College kort gezegd geoordeeld dat verweerder in het bestreden besluit I terecht heeft vastgesteld dat sprake was van een overtreding artikel 2.2, achtste lid, van de Wet dieren en artikel 1.8, tweede lid, van het Bhd. Verweerder was dan ook bevoegd om appellant een last onder dwangsom op te leggen. Met betrekking tot de hoogte van de opgelegde dwangsom van € 750,- per schaap met een maximum van € 10.000,- heeft het College geoordeeld dat verweerder geen enkel inzicht heeft gegeven in de berekening daarvan en dat het bestreden besluit I in zoverre is genomen in strijd met artikel 7:12, eerste lid, van de Awb. Ten aanzien van de invordering van de dwangsom heeft het College geoordeeld dat verweerder terecht heeft vastgesteld dat appellant niet op tijd heeft voldaan aan de bij de last onder dwangsom opgelegde maatregel. Verweerder heeft echter de hoogte van de door appellant verbeurde dwangsom van € 10.000,- niet deugdelijk gemotiveerd, gelet op hetgeen is geoordeeld met betrekking tot de vaststelling van de hoogte van de dwangsom. Het bestreden besluit I is daarom ook in zoverre genomen in strijd met artikel 7:12, eerste lid, van de Awb. Het College heeft verweerder opgedragen om binnen vier weken na verzending van de tussenuitspraak dit motiveringsgebrek in het bestreden besluit I te herstellen, dan wel een ander besluit daarvoor in de plaats te nemen met inachtneming van de uitspraak.
+
+3. Ter uitvoering van de in de tussenuitspraak gegeven opdracht heeft verweerder het bestreden besluit II genomen. Daarbij heeft verweerder de hoogte van de dwangsom gewijzigd en in zoverre ook het primaire besluit herroepen. Verweerder heeft de hoogte van de dwangsom nader vastgesteld op € 160,- per dier met een maximum van € 5.000,-. Bij de vaststelling van het bedrag van € 160,- heeft verweerder rekening gehouden met de gemiddelde waarde van een schaap of lam in 2018. Verweerder stelt dat hij bij deze waarde een financiële prikkel heeft opgeteld om de overtreding op te lossen. Aangezien de huisvesting van de dieren op instorten stond, was volgens verweerder de noodzaak hoog dat appellant de schapen zou verplaatsen. Als verweerder dat zelf zou moeten laten doen, dan zouden speciale diensten ingezet moeten worden om de veiligheid van het personeel te waarborgen. Voor het overige handhaaft verweerder het primaire besluit. Ten aanzien van de invordering van de dwangsom stelt verweerder dat de maximale dwangsom van € 5.000,- is verbeurd. Dit betreft de som van 16 schapen met lammeren, wat volgens verweerder neerkomt op 32 x € 160,- = € 5.120,-. Verweerder heeft het invorderingsbesluit herroepen en bepaald dat appellant de maximale dwangsom van € 5.000,- verbeurt.
+
+4. In zijn zienswijze op het bestreden besluit II voert appellant primair aan dat uit het rapport van bevindingen van 18 april 2018 van de hercontrole blijkt dat de deur die op een kier stond, eenvoudig opengezet kon worden, waardoor de schapen de wei in konden. Gelet op de tijd van het jaar konden de schapen in de wei verblijven. Het is dus niet gerechtvaardigd om een dwangsom te verbeuren. Bovendien is het geen verplichting om een dwangsom in te vorderen. Subsidiair bestrijdt appellant de gewijzigde hoogte van de dwangsom. Volgens appellant kon hooguit een dwangsom van 16 x € 160,- worden verbeurd. De schapen met lammeren, moeder en kind, moeten volgens appellant als stelletjes aangemerkt worden. Bovendien is in het rapport van bevindingen van de hercontrole geen aantal lammeren genoemd. Tot slot is appellant van mening dat het een fabel is dat verweerder speciale diensten had moeten inschakelen. Appellant acht de hoogte van gewijzigde dwangsom onevenredig.
+
+5. Op grond van artikel 6:19, eerste lid, van de Awb heeft het beroep van appellant tegen het bestreden besluit I van rechtswege ook betrekking op het bestreden besluit II. Het College stelt vast dat het bestreden besluit I is vervangen door het bestreden besluit II. Gelet hierop heeft appellant geen belang meer bij een inhoudelijke beoordeling van het bestreden besluit I. Het beroep tegen het bestreden besluit I zal dan ook wegens het ontbreken van procesbelang niet-ontvankelijk worden verklaard. Dit betekent dat het beroep zich nu alleen nog richt tegen het bestreden besluit II. Met betrekking tot dat besluit overweegt het College als volgt.
+
+De last onder dwangsom
+
+6.1
+
+Uit het bestreden besluit II volgt dat verweerder zowel een (volwassen) schaap als een lam afzonderlijk beschouwt als een 'dier' waarvoor appellant een dwangsom van € 160,- verbeurt, indien hij niet voldoet aan de bij de last opgelegde maatregel, met een maximum van € 5.000,-. Het College tekent hierbij aan dat in het primaire besluit sprake was van de verbeurte van een dwangsom per schaap. Nu een lam een jong schaap is, zag de verbeurte van een dwangsom per schaap derhalve per definitie mede op de verbeurte van een dwangsom per lam. De vaststelling van een dwangsom per dier in het bestreden besluit II wijkt hiervan in wezen niet af. Appellant heeft daartegen niet eerder een beroepsgrond aangevoerd. Mede in het licht hiervan, acht het College de eerst thans aangevoerde, maar niet nader toegelichte en onderbouwde stelling van appellant dat schapen en lammeren ‘stelletjes’ zijn onvoldoende voor het oordeel dat verweerder de dwangsom ten onrechte (ook) voor elk lam afzonderlijk op € 160,- heeft vastgesteld. Hierbij is van belang dat niet alleen voor de volwassen schapen, maar ook voor de individuele lammeren geldt dat sprake was van een overtreding van artikel 2.2, achtste lid, van de Wet dieren en artikel 1.8, tweede lid, van het Bhd, zoals blijkt uit de tussenuitspraak.
+
+6.2
+
+In hetgeen appellant heeft aangevoerd ziet het College geen aanleiding voor het oordeel dat de gewijzigde dwangsom ter hoogte van € 160,- per dier niet in redelijke verhouding staat tot de ernst van de overtreding en het met ongedaanmaking daarvan te dienen belang. Daarbij is van belang dat van de dwangsom een zodanige prikkel moet uitgaan dat de opgelegde last wordt nagekomen en verbeurte van de dwangsom wordt voorkomen. Verweerder heeft hierop terecht gewezen en hiermee terecht rekening gehouden bij het bepalen van genoemd bedrag. Voorts heeft verweerder het bedrag van € 160,- per dier mede gebaseerd op de gemiddelde waarde van een schaap of lam in 2018. Volgens verweerder lag deze waarde tussen de € 100,- en € 150,-. Verweerder heeft ter onderbouwing hiervan verwezen naar een website waar de prijzen van schapen op veemarkten in 2018 zijn weergegeven. Appellant heeft een en ander niet betwist. Het College gaat er dan ook vanuit dat de onderbouwing van verweerder van genoemd bedrag per dier juist is. Voorts heeft appellant het maximumbedrag van € 5.000,- als zodanig niet gemotiveerd betwist.
+
+6.3
+
+Gelet op het vorenstaande is het beroep tegen het bestreden besluit II voor zover dit ziet op de last onder dwangsom ongegrond.
+
+Het invorderingsbesluit
+
+7.1
+
+In de tussenuitspraak heeft het College geoordeeld dat verweerder terecht heeft vastgesteld dat appellant niet op tijd heeft voldaan aan de bij de last onder dwangsom opgelegde maatregel. In hetgeen appellant in zijn zienswijze stelt, te weten dat bij de hercontrole van 12 april 2018 bleek dat de schapen – kort gezegd – gemakkelijk in de wei konden komen, ziet het College geen grond om hiervoor thans anders te oordelen. Genoemde stelling neemt immers niet weg dat appellant de maatregel uit de last niet tijdig heeft uitgevoerd.
+
+7.2
+
+Verweerder stelt zich op het standpunt dat appellant de maximale dwangsom van
+
+€ 5.000,- heeft verbeurd, omdat de maatregel niet tijdig is uitgevoerd ten aanzien van 16 schapen met lammeren, wat volgens verweerder neerkomt op 32 x € 160,- = € 5.120,-.
+
+Het College constateert dat in het rapport van bevindingen naar aanleiding van de hercontrole staat dat de toezichthouder zag en middels een telling vaststelde dat er tenminste 16 volwassen schapen met lammeren liepen in het rechtergedeelte van de hoeve. Verweerder heeft hieruit, gelet op het bestreden besluit II, afgeleid dat elk volwassen schaap één lam heeft. Gelet op de stelling van appellant dat hooguit een dwangsom van 16 x € 160,- kan worden verbeurd, omdat een schaap met een lam als een stelletje moet worden aangemerkt, acht het College niet aannemelijk dat verweerder ten onrechte is uitgegaan van in totaal 32 dieren ten aanzien waarvan de bij de last opgelegde maatregel niet tijdig is uitgevoerd. Mede in het licht van hetgeen hiervoor in 6.1 is overwogen, heeft verweerder zich dus op goede gronden op het standpunt gesteld dat een dwangsom van € 5.000,- is verbeurd.
+
+8. Gelet op het voorgaande is het beroep van appellant tegen het bestreden besluit II voor zover dit betrekking heeft op het invorderingsbesluit eveneens ongegrond.
+
+9. Aangezien verweerder het bestreden besluit I heeft vervangen door het bestreden besluit II, ziet het College aanleiding te bepalen dat verweerder aan appellant het door hem betaalde griffierecht vergoedt. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+Het College
+
+verklaart het beroep tegen bestreden besluit I niet-ontvankelijk;
+
+verklaart het beroep tegen bestreden besluit II ongegrond;
+
+draagt verweerder op het betaalde griffierecht van € 174,- aan appellant te vergoeden.
+
+Deze uitspraak is gedaan door mr. S.C. Stuldreher, in aanwezigheid van mr. C.H.R. Mattheussens, griffier. De beslissing is in het openbaar uitgesproken op 21 april 2020.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
