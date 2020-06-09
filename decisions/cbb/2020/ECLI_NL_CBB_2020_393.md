@@ -1,0 +1,94 @@
+---
+ecli: "ECLI:NL:CBB:2020:393"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "18/285"
+decided: "2020-06-09"
+published: "2020-06-08"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:393"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:393 College van Beroep voor het bedrijfsleven , 09-06-2020 / 18/285
+
+## Inhoudsindicatie
+
+Regeling fosfaatreductieplan 2017. De Regeling dient een doel als bedoeld in artikel 13 van de Landbouwwet en de Regeling is als zodanig niet in strijd met artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en fundamentele vrijheden. Verweerder heeft terecht de uitgeschaarde runderen van appellante niet bij de vaststelling van het referentieaantal voor periode 2 betrokken. Verweerder heeft verder terecht het jongveegetal bij zijn berekening van het referentieaantal betrokken. In hetgeen appellante in beroep heeft aangevoerd ziet het College geen aanknopingspunten voor het oordeel dat verweerder in dit geval toepassing had moeten geven aan de in artikel 13, derde lid, van de Landbouwwet neergelegde hardheidsclausule.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 18/285
+
+uitspraak van de enkelvoudige kamer van 9 juni 2020 in de zaak tussen
+maatschap [naam 1] , te [plaats] , appellante
+(gemachtigde: ing. P.J. Houtsma),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. M. Krari).
+
+Procesverloop
+
+Bij besluit van 31 augustus 2017 (het primaire besluit) heeft verweerder op grond van de Regeling Fosfaatreductieplan 2017 (de Regeling) aan appellante voor periode 2 een hoge geldsom van € 4.450,- opgelegd.
+
+Bij besluit van 4 januari 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante tegen het primaire besluit ongegrond verklaard.
+
+Appellante heeft beroep ingesteld tegen het bestreden besluit.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 26 mei 2020. Namens appellante is [naam 2] verschenen, bijgestaan door de gemachtigde van appellante. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel melkvee houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot het referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen, verminderd met 4% – met uitzondering van grondgebonden bedrijven – en omgerekend naar grootvee-eenheden (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer melkvee houdt dan het referentieaantal. Verweerder kent een bonusgeldsom toe indien een melkveehouder minder melkvee houdt dan het referentieaantal.
+
+De Regeling kent twee soorten heffingen, de hoge geldsom en de solidariteitsgeldsom. Welke heffing wordt opgelegd is mede afhankelijk van de vraag of in de betreffende periode het doelstellingsaantal is behaald. Het doelstellingsaantal is het aantal op 1 oktober 2016 geregistreerde runderen, verminderd met het voor de betreffende periode vastgestelde verminderingspercentage, met dien verstande dat het doelstellingsaantal nooit lager is dan het referentieaantal. Verweerder legt een hoge geldsom op indien in de betreffende periode meer GVE worden gehouden dan het doelstellingsaantal. De hoogte van de hoge geldsom bedraagt € 480,- voor elke GVE boven het referentieaantal. Een bedrijf dat inkrimpt tot het doelstellingsaantal, maar niet tot het referentieaantal, krijgt een solidariteitsgeldsom opgelegd van € 112,- voor elke GVE boven het referentieaantal.
+
+Aan het primaire besluit heeft verweerder ten grondslag gelegd dat het gemiddelde aantal GVE op het bedrijf van appellante hoger was dan het doelstellingsaantal voor periode 2.
+
+Aan het bestreden besluit heeft verweerder het volgende ten grondslag gelegd. In artikel 11, eerste lid, van de Regeling is een voorziening opgenomen voor in- en uitscharing. Die houdt in dat bij verweerder tot 15 april 2017 een verzoek kon worden ingediend om uitgeschaarde runderen te betrekken bij de vaststelling van het referentieaantal voor de periodes 1 en 5. De indiener van het verzoek moet aantonen dat op de peildatum runderen waren uitgeschaard. Deze runderen moeten tussen 1 januari 2015 en 2 juli 2015 naar een inschaarder zijn verplaatst, op 2 juli 2015 door de inschaarder zijn gehouden en uiterlijk 31 december 2015 weer zijn teruggekomen op het bedrijf van de uitschaarder. In artikel 11, zesde lid, van de Regeling is verder bepaald dat een houder kan verzoeken om het referentieaantal te verhogen als hij in 2015 of 2016 runderen had uitgeschaard en verklaart in 2017 geen runderen uit te scharen. Een dergelijk verzoek moet voor 15 april 2017 zijn ingediend.	Verweerder stelt dat appellante een verzoek als bedoeld in artikel 11, eerste lid, van de Regeling heeft ingediend en dat hij hieraan tegemoet is gekomen. Dit betekent dat het referentieaantal voor de periodes 1 en 5 wordt verhoogd. Het primaire besluit ziet evenwel op periode 2. Omdat appellante heeft verklaard in 2017 runderen uit te scharen kan artikel 11, zesde lid, van de Regeling niet worden toegepast. Het referentieaantal kan daarom alleen in de periodes 1 en 5 worden verhoogd. Het referentieaantal is volgens verweerder dan ook juist vastgesteld in het primaire besluit.	Bij de vaststelling van het referentieaantal heeft verweerder in het primaire besluit het jongveegetal betrokken. Op grond van artikel 11, negende lid, van de Regeling kan een houder verweerder verzoeken het jongveegetal aan te passen. Een dergelijk verzoek moet voor 20 mei 2017 zijn ingediend. Appellante heeft een verzoek ingediend dat op 22 juni 2017 is ondertekend en op 23 juni 2017 door verweerder is ontvangen. Omdat het verzoek niet tijdig is ingediend heeft verweerder het verzoek niet in behandeling genomen. Dat appellante niet eerder bekend was met de mogelijkheid het jongveegetal aan te laten passen komt voor haar rekening. Het lag op haar weg om, als professioneel handelend melkveehouder, tijdig kennis te nemen van de voorzieningen die de Regeling biedt, aldus verweerder.
+
+Artikel 11 van de Regeling luidt als volgt:“1. Indien een houder aantoont dat hij op 2 juli 2015 runderen had uitgeschaard die tussen 1 januari 2015 en 2 juli 2015 naar een inschaarder zijn gegaan, op 2 juli 2015 door die inschaarder werden gehouden en die uiterlijk op 31 december 2015 zijn teruggekomen op het bedrijf van de houder, kan de minister wanneer hiervoor door de houder uiterlijk voor 15 april 2017 een verzoek is ingediend zijn referentieaantal verhogen in de periode 1 en 5 mits, in het geval de inschaarder producent is van koemelk bestemd voor consumptie of verwerking, deze aantoonbaar instemt met verlaging van zijn referentieaantal in die perioden. […]6. Indien een houder aantoont dat hij in 2015 of 2016 runderen had uitgeschaard en verklaart in 2017 geen runderen uit te scharen, kan de minister wanneer hiervoor door de houder uiterlijk voor 15 april 2017 een verzoek is ingediend:a. zijn referentieaantal verhogen indien hij in 2015 runderen had uitgeschaard mits, in het geval de inschaarder producent is van koemelk bestemd voor consumptie of verwerking, deze aantoonbaar instemt met verlaging van zijn referentieaantal, ofb. zijn doelstellingsaantal verhogen indien hij in 2016 runderen had uitgeschaard, mits, in het geval de inschaarder producent is van koemelk bestemd voor consumptie of verwerking, deze instemt met verlaging van zijn doelstellingsaantal. […]9. Een houder die een verzoek heeft ingediend als bedoeld in het eerste of vierde lid kan voor de toepassing van deze regeling tevens bij de minister voor 20 mei 2017 een verzoek indienen voor berekening van het jongveegetal in de perioden 2, 3 en 4 op de volgende, van artikel 1, eerste lid, onderdeel l, afwijkende berekeningswijze: (het aantal runderen van de houder op 28 april 2017 van 0 tot 1 jaar en van 1 jaar of ouder dat niet heeft gekalfd verminderd met het aantal uitgeschaarde runderen overeenkomstig het tweede lid) gedeeld door het aantal runderen van de houder op 28 april 2017 dat ten minste eenmaal heeft gekalfd.”
+
+In beroep betoogt appellante dat artikel 13 van de Landbouwwet geen wettelijke grondslag biedt voor de Regeling en dat de Regeling in strijd is met artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en fundamentele vrijheden (EP).
+
+6.1.
+
+Appellante heeft deze beroepsgronden voor het eerst op de zitting aangevoerd. Tevergeefs. Het College heeft eerder al geoordeeld dat de minister voldoende heeft onderbouwd dat de Regeling een doel dient als bedoeld in artikel 13 van de Landbouwwet en dat de Regeling als zodanig niet in strijd is met artikel 1 van het EP. Het College volstaat op deze plaats met een verwijzing naar zijn overwegingen in de uitspraken van 21 augustus 2018, ECLI:NL:CBB:2018:419 en ECLI:NL:CBB:2018:421.
+
+7. Appellante voert verder aan dat verweerder het referentieaantal ten onrechte alleen voor de periodes 1 en 5 heeft aangepast en niet ook voor periode 2. Verweerder had volgens appellante haar bedrijfsomstandigheden bij zijn besluitvorming moeten betrekken.
+
+7.1.
+
+Het is niet zo dat de Regeling verweerder alleen de ruimte biedt het referentieaantal voor de periodes 1 en 5 aan te passen. Verweerder had het referentieaantal ook voor de tussenliggende periodes kunnen bijstellen, maar artikel 11, zesde lid, van de Regeling verbindt hieraan de voorwaarde dat de houder verklaart in 2017 geen runderen te zullen uitscharen. Omdat appellante heeft verklaard in 2017 runderen uit te scharen voldoet ze niet aan deze voorwaarde. Verweerder heeft dan ook terecht de uitgeschaarde runderen niet bij de vaststelling van het referentieaantal voor periode 2 betrokken.	Deze beroepsgrond faalt.
+
+8. Appellante betoogt verder dat verweerder ten onrechte het jongveegetal heeft betrokken bij de berekening van het referentieaantal. Volgens appellante was verweerder er in maart 2017 al van op de hoogte dat zij jongvee had uitgeschaard. Het had op de weg van verweerder gelegen appellante erop te wijzen tijdig een verzoek als bedoeld in artikel 11, negende lid, van de Regeling te doen, door haar een formulier toe te sturen of anderszins. Omdat verweerder dit niet heeft gedaan, mocht appellante ervan uitgaan dat verweerder over de juiste gegevens beschikte om het referentieaantal vast te stellen. In het geval het haar kan worden aangerekend dat zij het verzoek niet tijdig heeft ingediend, stelt appellante zich op het standpunt dat zij dit verzoek in de bezwaarfase alsnog heeft gedaan en dat een gebrek in de bezwaarfase hersteld mag worden.
+
+8.1.
+
+Uit artikel 11, negende lid, van de Regeling volgt dat de houder verantwoordelijk is voor het tijdig doen van het in die bepaling bedoelde verzoek. Het was aan appellante om verweerder op tijd te verzoeken het door haar uitgeschaarde jongvee niet bij de vaststelling van het referentieaantal te betrekken. Dat verweerder appellante geen formulier heeft toegestuurd of op andere wijze op de fatale termijn van 20 mei 2017 heeft gewezen betekent dan ook niet dat verweerder appellante geen termijnoverschrijding van het op 22 juni 2017 gedane verzoek mocht tegenwerpen. Appellante heeft bovendien zelf aangevoerd dat de in de Regeling genoemde termijn van 20 mei 2017 ook op de website van verweerder is vermeld.	In de bezwaarfase is er gelegenheid om sommige gebreken te herstellen. Het gebrek dat aan het verzoek van appellante kleeft kon in de bezwaarfase echter niet worden hersteld. Zij kon op dat moment namelijk niet alsnog tijdig haar verzoek indienen. Het verzoek is en blijft te laat ingediend. Dit betekent dat verweerder het jongveegetal terecht bij zijn berekening van het referentieaantal heeft betrokken.	Deze beroepsgrond faalt.
+
+9. In hetgeen appellante in beroep heeft aangevoerd ziet het College geen aanknopingspunten voor het oordeel dat verweerder in dit geval toepassing had moeten geven aan de in artikel 13, derde lid, van de Landbouwwet neergelegde hardheidsclausule.
+
+10. Uit het hiervoor overwogene volgt dat verweerder het referentieaantal voor periode 2 juist heeft vastgesteld en op basis hiervan een hoge geldsom van € 4.450,- mocht opleggen.
+
+Beslissing
+
+Het College
+
+- verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. C.H.M. van Altena, in aanwezigheid van mr. W. Dijkshoorn, griffier. De beslissing is in het openbaar uitgesproken op 9 juni 2020.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+W.G. W. Dijkshoorn
