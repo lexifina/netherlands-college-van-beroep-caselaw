@@ -1,0 +1,202 @@
+---
+ecli: "ECLI:NL:CBB:2020:413"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "18/1868"
+decided: "2020-06-23"
+published: "2020-06-19"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:413"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:413 College van Beroep voor het bedrijfsleven , 23-06-2020 / 18/1868
+
+## Inhoudsindicatie
+
+Artikel 23, vierde lid, van de Msw. Artikel 1 EP. Fosfaatruimte. Bedrijfsoverdracht.
+
+Verweerder heeft het fosfaatrecht van appellante bepaald door het haar toekomende fosfaatrecht vast te stellen op basis van de referentiegegevens van haar bedrijf op de peildatum 2 juli 2015 en daarbij op te tellen het fosfaatrecht van het in 2017 overgenomen bedrijf op basis van de referentiegegevens van dat bedrijf op de peildatum. Verweerder heeft een juiste toepassing gegeven aan artikel 23, vierde lid, van de Msw door het fosfaatrecht van de later samengevoegde bedrijven voor ieder bedrijf afzonderlijk te bepalen op grond van de situatie op 2 juli 2015 (zie ook uitspraak van het College van 30 juli 2019, ECLI:NL:CBB:2019:319). Dat verweerder een brief heeft gestuurd met informatie over de uitgangspunten voor de vaststelling van het fosfaatrecht waarin de gronden van beide bedrijven in strijd met artikel 23, vierde lid, van de Msw, waren opgeteld, maakt niet dat de vaststelling van het fosfaatrecht van appellante in strijd met het vertrouwensbeginsel is.
+
+Feitelijke beschikkingsmacht op de peildatum over de gronden van het later overgenomen bedrijf ten dele aangetoond. Geen geslaagd beroep op artikel 1EP.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 18/1868
+
+uitspraak van de enkelvoudige kamer van 23 juni 2020 in de zaak tussen
+Maatschap [naam 1] en [naam 2] , te [plaats] , appellante
+(gemachtigde: mr. R. Verkoijen),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. M.J.H. van der Burgt).
+
+Procesverloop
+
+Bij besluit van 31 januari 2018 (het primaire besluit) heeft verweerder op grond van artikel 23, derde lid, van de Meststoffenwet (Msw) het fosfaatrecht van appellante vastgesteld.
+
+Bij besluit van 18 juli 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante ongegrond verklaard.
+
+Appellante heeft beroep ingesteld tegen het bestreden besluit.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 16 januari 2020. Namens appellante zijn verschenen [naam 1] en [naam 3] , bijgestaan door de gemachtigde van appellante. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Het College heeft het onderzoek ter zitting geschorst teneinde appellante in de gelegenheid te stellen om binnen twee weken na de zitting nadere stukken in te dienen.
+
+Bij brief van 29 januari 2020 heeft appellante nadere stukken ingediend.
+
+Bij brief van 4 maart 2020 heeft verweerder op de door appellante ingediende stukken gereageerd.
+
+Bij brief van 19 februari 2020 is partijen meegedeeld dat het College voornemens is een (nadere) behandeling ter zitting achterwege te laten en het onderzoek in deze zaak te sluiten. Hierbij zijn partijen in de gelegenheid gesteld binnen twee weken kenbaar te maken of zij toch nader ter zitting willen worden gehoord. Appellante heeft meegedeeld behoefte te hebben aan een nadere zitting.
+
+Op 28 mei 2020 is het onderzoek ter zitting voortgezet. Namens appellante is verschenen haar maat [naam 1] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+Relevante bepalingen
+
+1.1
+
+Ingevolge artikel 23, derde lid, van de Msw stelt de minister het op een bedrijf rustende fosfaatrecht per 1 januari 2018 vast in overeenstemming met de forfaitaire productie van dierlijke meststoffen in een kalenderjaar door melkvee dat op 2 juli 2015 op het bedrijf is gehouden en geregistreerd.
+
+1.2
+
+Artikel 23, vierde lid, van de Msw bepaalt dat indien een landbouwer meldt en aantoont dat tussen 2 juli 2015 en 1 januari 2018 een beëindigd bedrijf is overgenomen, het fosfaatrecht, bedoeld in het derde lid, wordt verhoogd, met het fosfaatrecht dat voor dit beëindigde bedrijf bij continuering, krachtens het derde lid zou zijn vastgesteld. Bij een gedeeltelijke overname vindt de verhoging naar rato plaats.
+
+1.3
+
+Op grond van artikel 33Ab van de Msw in samenhang met artikel 72b, eerste lid, van het Uitvoeringsbesluit Meststoffenwet (Uitvoeringsbesluit) wordt het fosfaatrecht verminderd met 8,3%. Volgens het derde lid van deze bepaling wordt bij de toepassing van het percentage, bedoeld in het eerste lid, het fosfaatrecht slechts verminderd voor zover een gehele uitoefening van het fosfaatrecht de fosfaatruimte in het kalenderjaar 2015 van dat bedrijf te boven gaat. Het tweede lid van deze bepaling bepaalt dat het eerste lid niet van toepassing is op een bedrijf waarvan de productie van dierlijke meststoffen door melkvee in kilogrammen fosfaat in het kalenderjaar 2015, verminderd met de fosfaatruimte in dat kalenderjaar, negatief of nul is.
+
+1.4
+
+Fosfaatruimte is de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar ingevolge artikel 8, aanhef en onder c, van de Msw mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond (artikel 1, eerste lid, aanhef en onder ll, subonderdeel 1, van de Msw). De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, aanhef en onder c, van de Msw is bepaald in artikel 21a van het Uitvoeringsbesluit en gaat uit van de tot het bedrijf behorende oppervlakte landbouwgrond. Tot het bedrijf behorende oppervlakte landbouwgrond is in Nederland gelegen oppervlakte landbouwgrond, die in het kader van een normale bedrijfsvoering bij het bedrijf in gebruik is (artikel 1, eerste lid, aanhef en onder m, van de Msw). De tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar is de oppervlakte landbouwgrond die op 15 mei van dat jaar tot het bedrijf behoort (artikel 24, eerste en tweede lid, van het Uitvoeringsbesluit).
+
+1.5
+
+Het recht op eigendom is neergelegd in artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP). Het verzekert het recht op het ongestoord genot van eigendom, maar tast op geen enkele wijze het recht aan dat een Staat heeft om die wetten toe te passen die hij noodzakelijk oordeelt om het gebruik van eigendom te reguleren in overeenstemming met het algemeen belang.
+
+Feiten
+
+2.1
+
+Appellante heeft een melkveebedrijf. Appellante behoort tot de groep melkveehouders die geïnvesteerd heeft in uitbreiding van de veestapel en die uitbreiding op de peildatum nog niet had afgerond. Zij beschikte op 2 juli 2015 (de peildatum) over 90 melk- en kalfkoeien en 29 stuks jongvee.
+
+2.2
+
+Op 25 februari 2008 heeft appellante een melding gedaan in het kader van het Besluit landbouw milieubeheer voor onder meer de bouw van een nieuwe stal voor het houden van 140 melk- en kalfkoeien en 44 stuks jongvee. Op 27 maart 2013 is aan appellante een vergunning verleend op grond van de Natuurbeschermingswet 1998 voor het houden van 140 melk- en kalfkoeien en 44 stuks jongvee.
+
+2.3
+
+Op 10 maart 2008 heeft appellante een lening afgesloten van € 1.050.000,- met als bestedingsdoel investering in een nieuwe stal. Op 15 mei 2008 heeft appellante opdracht gegeven voor de bouw van de nieuwe stal van € 426.522,64 (exclusief omzetbelasting). De stal was in 2009 klaar. In 2012 is ongeveer 100.000 kg melkquotum aangekocht. Op 29 november 2012 heeft appellante een bedrijfsplan laten opstellen. Op dat moment hield appellante 96 melkkoeien en 27 stuks jongvee. Uit het plan blijkt dat de financieringslast op dat moment hoog was en onvoldoende melkquotum kon worden aangekocht om voldoende te produceren om aan de financieringsverlichtingen te voldoen en te kunnen blijven investeren. Verdere uitbreiding was nodig. In het plan is opgenomen dat vanaf 2015 wordt gehouden 120 melk- en kalfkoeien en 20 stuks jongvee. In de begroting is gerekend met 88 melk- en kalfkoeien en 21 stuks jongvee vanwege het beschikbare melkquotum dat is aangekocht in 2012 en dat zou worden volgemaakt tot het moment van afschaffing. Op 18 december 2015 heeft appellante een lening afgesloten van € 150.000,- voor onder meer aanpassingen aan de stal.
+
+2.4
+
+Op 27 maart 2017 is namens de stille maatschap maatschap [naam 4] en [naam 5] (hierna: maatschap [naam 6] ) een melding overdracht of beëindiging agrarisch bedrijf gedaan. Daarbij zijn onder andere alle percelen overgedragen aan appellante en is aan verweerder verzocht om overdracht van de referentiegegevens op de peildatum en overige relevante referentiedata ten behoeve van het fosfaatreductieplan en de fosfaatrechten. Op 30 maart 2017 is appellante een samenwerkingsovereenkomst aangegaan met de maatschap [naam 6] waarbij nadere afspraken zijn gemaakt over de samenwerking die partijen per 1 januari 2017 zijn aangegaan en die onder andere behelzen dat de maten [naam 6] toetreden tot appellante. In de overeenkomst van 30 maart 2017 is opgenomen dat de samenwerking kwalificeert als bedrijfsoverdracht waarvan melding wordt gemaakt. De afspraken hebben onder meer betrekking op de inbreng in appellante en winstverdeling tussen de vier maten.
+
+Besluiten van verweerder
+
+3. 	Bij het primaire besluit heeft verweerder het fosfaatrecht van appellante vastgesteld op 4.734 kg. Wat betreft de dieraantallen is verweerder uitgegaan van de aantallen die op 2 juli 2015 op het bedrijf aanwezig waren. Verweerder heeft de generieke korting van 8,3% toegepast. Bij de vaststelling van het aantal fosfaatrechten is tevens rekening gehouden met de verwerving van het overgenomen bedrijf.
+
+Beroepsgronden
+
+4.1
+
+Appellante stelt dat zij grondgebonden is. Zij heeft een bedrijf overgenomen en voor de vaststelling van het aantal fosfaatrechten dienen de rechten van beide bedrijven bij elkaar te worden opgeteld. Dat is ook gebeurd, echter verweerder heeft ten onrechte geen rekening gehouden met de verworven gronden die bij het overgenomen bedrijf hoorden. Hierdoor is er volgens verweerder geen sprake van grondgebondenheid, terwijl dit feitelijk wel het geval was. Appellante verwijst ter onderbouwing van haar betoog naar de brief van verweerder van 12 december 2017 waarin melding wordt gedaan van de referentiegegevens die zullen worden gebruikt voor de vaststelling van het aantal fosfaatrechten. De in deze brief vermelde dieraantallen en oppervlakten zijn correct. Appellante mocht erop vertrouwen dat het aantal fosfaatrechten aan de hand van deze gegevens zou worden vastgesteld. De generieke korting moet daarom achterwege blijven. Appellante heeft zich daarnaast op het standpunt gesteld dat de gronden die voor de samenwerking/bedrijfsovername in 2017 in eigendom toebehoorden aan de maatschap [naam 6] , vallen onder tot het bedrijf behorende landbouwgronden van appellante, omdat zij de feitelijke beschikkingsmacht over de gronden had. Ter onderbouwing van die stelling heeft appellante overgelegd een abonnement Veterinaire Eenheid van de gezondheidsdienst voor dieren, een pachtovereenkomst van 26 april 2010 ten aanzien van circa 4,01 hectare grond van [naam 4] en [naam 5] alsmede een verlenging daarvan van 15 juli 2015, een verklaring omtrent van samenwerking van 28 januari 2020 van de maatschap [naam 6] met appellante, een verklaring van het loonbedrijf [naam 7] van 28 januari 2020, mesttransportbewijzen en overzichten van kuiluitslagen met plattegronden.
+
+4.2
+
+Ook voert appellante aan dat het fosfaatrechtenstelsel het ongestoord genot van haar eigendom aantast. Het stelsel kan de ‘fair balance’ toets niet doorstaan, omdat dit, in ieder geval deels, niet voorzienbaar was. Appellante kon niet weten dat haar stal op 2 juli 2015 vol moest staan. In haar geval is sprake van een individuele en buitensporige last. Zij heeft stappen gezet om haar bedrijf uit te breiden naar een beoogde omvang van 140 melk- en kalfkoeien en 44 stuks jongvee. Op 2 juli 2015 was appellante nog volop bezig de plannen te realiseren. Er is een stal gebouwd om het uiteindelijke aantal vee te huisvesten zoals vergund en in combinatie met de samenwerking en samenvoeging van het bedrijf met het bedrijf van maatschap [naam 6] waren voldoende productierechten aanwezig om grondgebonden het gewenste aantal dieren te houden. De financiële verplichtingen zijn van dien aard dat de uitbreiding noodzakelijk is om aan de verplichtingen te voldoen. Zonder extra fosfaatrechten kan het bedrijf niet worden voortgezet. Appellante wenst primair alsnog toekenning van in totaal 6.265 kg fosfaatrecht. Zij verwijst ter onderbouwing van haar betoog naar het arrest van de Hoge Raad van 2 september 2011 (ECLI:NL:HR:2011:BQ5098). Appellante verzoekt het College subsidiair om verweerder te gelasten de schade te vergoeden die is gemoeid met de aankoop van het ontbrekende fosfaatrecht. Tot slot verzoekt zij om vergoeding van de in beroep en bezwaar gemaakte kosten.
+
+Standpunt van verweerder
+
+5.1
+
+Verweerder stelt zich op het standpunt dat appellante terecht niet is aangemerkt als grondgebonden en dat geen sprake is van schending van het vertrouwensbeginsel. In het kader van de vaststelling van de fosfaatrechten is op 12 december 2017 een brief verzonden waarin is meegedeeld dat verweerder bij deze vaststelling uitgaat van de gegevens in de bijlage. De gegevens in de bijlage waren echter niet correct in die zin dat de referentiegegevens van het bedrijf van appellante en de referentiegegevens van het overgenomen bedrijf per abuis waren samengevoegd. Op grond van artikel 23, derde lid, van de Msw in samenhang bezien met artikel 23, vierde lid, van de Msw moeten de bedrijven voor de vaststelling van de fosfaatrechten over 2015 afzonderlijk worden beoordeeld. Verweerder verwijst ter onderbouwing naar een uitspraak van het College van 30 juli 2019 (ECLI:NL:CBB:2019:319). Een beroep op het vertrouwensbeginsel kan niet worden gehonoreerd. Appellante had kunnen weten dat op basis van artikel 23, vierde lid, van de Msw en de door haar zelf aangeleverde fosfaatrechtenplanner de gegevens in de brief van 12 december 2017 onjuist waren. Naar aanleiding van de door appellante overgelegde pachtovereenkomst ten aanzien van circa 4,01 hectare grond, heeft verweerder de fosfaatruimte van appellante herberekend en vergroot met 320,8 kg. De pachtovereenkomst heeft geen consequenties voor het fosfaatrecht van de maatschap [naam 6] in die zin dat zij grondgebonden blijft. Het fosfaatrecht van appellante wordt hierdoor 3.827,6 kg plus 1.171 kg is 4.999 kg.
+
+5.2
+
+Voorts betwist verweerder dat op appellante een individuele en buitensporige last rust. Appellante heeft niet aangetoond dat zij voor de peildatum onomkeerbare investeringen heeft gedaan. Ook had zij een zekere mate van voorzichtigheid moeten betrachten, is de bedrijfseconomische noodzaak van de uitbreiding niet aangetoond en heeft appellante geen inzicht gegeven in haar vermogenspositie, waardoor verweerder niet kan beoordelen of zij daadwerkelijk een individuele en buitensporige last draagt.
+
+Beoordeling
+
+6.1.1
+
+Ten aanzien van het betoog van appellante dat haar bedrijf als grondgebonden moet worden aangemerkt vanwege de overname van het bedrijf van de maatschap [naam 6] in 2017, overweegt het College dat het wettelijke kader hiervoor geen grond biedt. Niet bestreden is dat zich een situatie als bedoeld in artikel 23, vierde lid, van de Msw voordoet. Verweerder heeft het fosfaatrecht van appellante bepaald door het haar toekomende fosfaatrecht vast te stellen op basis van de referentiegegevens van haar bedrijf op de peildatum 2 juli 2015 en daarbij op te tellen het fosfaatrecht van het in 2017 overgenomen bedrijf op basis van de referentiegegevens van dat bedrijf op de peildatum. Het fosfaatrecht van de later samengevoegde bedrijven wordt dus voor ieder bedrijf afzonderlijk bepaald op grond van de situatie op 2 juli 2015 (zie ook de door verweerder aangehaalde uitspraak van 30 juli 2019). Verweerder heeft aldus terecht toepassing gegeven aan artikel 23, vierde lid, van de Msw.
+
+6.1.2
+
+Ten aanzien van het betoog van appellante dat de situatie op 2 juli 2015 voor wat betreft de gronden feitelijk afweek van de Gecombineerde Opgave van 2015 in die zin dat appellante alle gronden van de maatschap [naam 6] vanaf 2009 in gebruik had en daarover dus feitelijke beschikkingsmacht had en daarom grondgebonden was, overweegt het College als volgt. Tot het bedrijf behorende oppervlakte landbouwgrond, is de grond die in het kader van een normale bedrijfsvoering bij dat bedrijf in gebruik is (zie de uitspraak van het College van 20 augustus 2019, ECLI:NL:CBB:2019:361). Deze eis brengt met zich dat de landbouwer over de grond feitelijke beschikkingsmacht moet hebben, doordat hij in de praktijk in staat is het teeltplan en het bemestingsplan op elkaar af te stemmen en deze plannen in samenhang te realiseren. Op basis van de door appellante overgelegde nadere stukken, heeft verweerder geconcludeerd dat de grond die onderwerp is van de pachtovereenkomst kan worden beschouwd als tot het bedrijf van appellante behorende grond. Ten aanzien van de overige grond van de maatschap oordeelt het College als volgt. Dat appellante mest heeft uitgereden over de grond van maatschap [naam 6] acht het College aannemelijk en het College wil ook nog aannemen dat de ingekuilde gewassen deels afkomstig zijn van de grond van de maatschap [naam 6] , maar het College heeft niet kunnen vaststellen dat appellante de feitelijke beschikkingsmacht had over de gestelde hoeveelheid grond van de maatschap [naam 6] . De kuiluitslagen waaruit dat volgens appellante zou kunnen worden afgeleid, bieden onvoldoende aanknopingspunten voor de vaststelling van de hoeveelheid grond en de omvang van de beschikkingsmacht daarover. Uit de overgelegde verklaringen blijkt dat evenmin, bovendien wordt daar gesproken over gezamenlijke oogst en opslag van de gewassen afkomstig van de gronden van appellante en de maatschap [naam 6] . Naar het oordeel van het College heeft verweerder zich terecht op het standpunt gesteld dat niet vast is komen te staan dat de overige grond tot het bedrijf van appellante behoorde.
+
+6.1.3
+
+Het beroep dat appellante in dit verband doet op het vertrouwensbeginsel, kan haar niet baten. De brief waar appellante naar verwijst is geen toezegging dan wel vaststelling van het aantal fosfaatrechten. Daar komt bij dat de in de brief vermelde informatie in strijd is met artikel 23, derde lid, van de Msw in samenhang met artikel 23, vierde lid, van de Msw. Dat de gegevens in deze brief achteraf onjuist blijken te zijn, maakt ook dat geen sprake kan zijn van een schending van het vertrouwensbeginsel.
+
+6.1.4
+
+Uit het bovenstaande volgt dat verweerder terecht heeft geconcludeerd dat appellante op de peildatum niet grondgebonden was. Wel zal het College het fosfaatrecht opnieuw vaststellen op 4.999 kg naar aanleiding van de vergroting van de fosfaatruimte van appellante in verband met de pachtovereenkomst. In zoverre slaagt het beroep.
+
+6.2.1
+
+Het betoog van appellante dat het fosfaatrechtenstelsel op het niveau van de regeling strijd oplevert met artikel 1 van het EP faalt. Het College verwijst hiervoor naar zijn heropeningsbeslissing van 17 oktober 2018 (ECLI:NL:CBB:2018:522) en uitspraken van 9 januari 2019 (ECLI:NL:CBB:2019:1-7). Daarin heeft hij al geoordeeld dat het fosfaatrechtenstelsel op regelingsniveau verenigbaar is met artikel 1 van het EP. In de uitspraak van 23 juli 2019 (ECLI:NL:CBB:2019:291) heeft het College dit oordeel verder gemotiveerd.
+
+6.2.2
+
+Appellante heeft niet aannemelijk gemaakt dat het fosfaatrechtenstelsel een individuele en buitensporige last op haar legt. Het College overweegt hiertoe als volgt.
+
+6.2.3
+
+Bij de beoordeling of de last buitensporig is, staat voorts voorop dat de beslissingen van melkveehouders om te investeren in productiemiddelen als stallen, grond, melkvee en machines, om deze te verhuren of te verkopen, of om bestaande stalruimte (nog) niet te benutten, moeten worden gezien als ondernemersbeslissingen waaraan risico’s inherent zijn. Het College hanteert als uitgangspunt dat de individuele melkveehouder zelf de gevolgen van die de risico’s draagt en dat niet ieder vermogensverlies als gevolg van het fosfaatrechtenstelsel een individuele en buitensporige last vormt. Dit uitgangspunt wordt alleen bij uitzondering verlaten. Daarvoor moet dan wel de ondernemersbeslissing in de gegeven omstandigheden – wat betreft het tijdstip waarop de beslissing is genomen, de omstandigheden waaronder de beslissing is genomen, de mate waarin en de reden waarom is geïnvesteerd – navolgbaar zijn, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren en waarover het College in zijn uitspraak van 23 juli 2019 (hiervoor aangehaald, onder 6.7.5.4) heeft geoordeeld. Bovendien moeten er goede redenen zijn om aan te nemen dat geen evenwicht bestaat tussen de belangen die zijn gediend met het fosfaatrechtenstelsel (de bescherming van het milieu en de volksgezondheid en het voldoen aan de verplichtingen die voortvloeien uit de Nitraatrichtlijn) en de belangen van de melkveehouder (zie de uitspraak van het College van 25 februari 2020, hiervoor aangehaald, onder 6.9).
+
+6.2.4
+
+Zoals het College heeft overwogen in zijn uitspraak van 25 februari 2020 (ECLI:NL:CBB:2020:114, onder 6.7) ontstaat de last op 1 januari 2018, het moment waarop het fosfaatrechtenstelsel van kracht werd, en bestaat de last van de individuele melkveehouder in beginsel uit het aantal fosfaatrechten dat hij als gevolg van het fosfaatrechtenstel tekortkomt om zijn bestaande, c.q. aantoonbaar voorgenomen, bedrijfsvoering (inclusief de uitbreidingsplannen) te kunnen voeren.
+
+6.2.5
+
+Voor appellante komt de last als gevolg van het fosfaatrechtenstelsel op basis van de hiervoor onder 6.2.4 weergegeven vergelijking neer op (6.265 – 4.999) = 1.266 kg fosfaatrechten. Het College wil wel aannemen dat appellante door het fosfaatrechtenstelsel financieel stevig wordt geraakt, maar dat alleen is onvoldoende om aan te nemen dat sprake is van een individuele en buitensporige last. Zoals onder 6.2.3 is overwogen, draagt appellante zelf de risico’s die zijn verbonden aan haar investeringsbeslissingen en kan zij de nadelige gevolgen van een door haar genomen beslissing om uit te breiden in beginsel niet afwentelen. In wat appellante heeft aangevoerd, ziet het College geen aanleiding om hier van dat uitgangspunt af te wijken.
+
+6.2.6
+
+In dat verband acht het College is het volgende van belang. Appellante heeft in 2008/2009 de beslissing tot uitbreiding genomen, is een flinke financiering aangegaan en heeft een nieuwe stal gebouwd die ruimte bood aan het vergunde aantal dieren. In 2012 bleek dat de ingeslagen weg niet toereikend was om aan de financieringslasten te kunnen blijven voldoen. Er is toen een bedrijfsplan opgesteld dat uitging van groei naar 120 melkkoeien en 20 stuks jongvee vanaf 2015. Tot de afschaffing van het melkquotum per 1 april 2015 kon appellante de veestapel in ieder geval niet vergroten vanwege de omvang van haar melkquotum. De veestapel is in die periode zelfs verkleind. Het College leidt hieruit af dat het bedrijf van appellante al ruim voor de invoering van het fosfaatrechtenstelsel voor financiële uitdagingen stond. Dat zij voor het verbeteren van haar positie erop heeft vertrouwd dat groei na de afschaffing van het melkquotum mogelijk was, acht het College gezien het moment in de tijd en de wachtperiode die appellante voor ogen had (eind 2012-april 2015) niet navolgbaar. Het had voor melkveehouders al vanaf het moment dat bekend werd dat het melkquotum zou worden afgeschaft en bijgevolg een einde zou komen aan de begrenzing van mestproductie voor rundvee, redelijkerwijs duidelijk moeten zijn dat een ongeremde groei van de melkveehouderij niet mogelijk was en dat in verband met die afschaffing maatregelen te verwachten waren. Reeds in 2013 is gewaarschuwd dat (dreigende) overschrijding van het fosfaatproductieplafond kon leiden tot productiebeperkende maatregelen, waaronder dierrechten. Ook daarna zijn in aanloop naar de afschaffing van het melkquotum nog verschillende soortgelijke waarschuwingen vanuit de markt en de overheid gevolgd. Appellante had daarom een zekere mate van voorzichtigheid kunnen en moeten betrachten en zich moeten realiseren dat het vertrouwen op de mogelijkheid van uitbreiding meer dan de gebruikelijke ondernemersrisico’s met zich zou brengen. Op het moment van het aangaan van de lening van € 150.000,- (18 december 2015) was het fosfaatrechtenstelsel niet alleen voorzienbaar maar ook kenbaar (zie de uitspraak van het College van 23 juli 2019 (ECLI:2019:291 onder 6.7.5.5).
+
+6.2.7
+
+De bescherming van het milieu en de volksgezondheid en het voldoen aan de verplichtingen die voortvloeien uit de Nitraatrichtlijn wegen in dit geval zwaarder dan de belangen van appellante. Het bestreden besluit is niet in strijd met artikel 1 van het EP.
+
+Slotsom
+
+7.1
+
+Het beroep is gegrond en het College zal het bestreden besluit vernietigen en met toepassing van artikel 8:72, derde lid, aanhef en onder b, van de Awb zelf in de zaak voorzien door het primaire besluit te herroepen en het aantal fosfaatrecht vast te stellen op 4.999 kg.
+
+7.2
+
+Het door appellante betaalde griffierecht wordt aan haar vergoed en verweerder wordt veroordeeld in de proceskosten van appellante in beroep. Deze kosten worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 1.312,50 (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting en 0,5 punt voor een nadere reactie, met een waarde per punt van € 525,- en een wegingsfactor 1). Het College ziet geen aanleiding voor een vergoeding van de proceskosten in bezwaar, omdat hier geen sprake is van herroepen wegens een onrechtmatigheid door het bestuursorgaan, maar door het in een laat stadium overleggen van een stuk (de pachtovereenkomst) door appellante.
+
+Beslissing
+
+Het College:
+
+- verklaart het beroep gegrond;
+
+- vernietigt het bestreden besluit;
+
+- herroept het primaire besluit, stelt het fosfaatrecht van appellante vast op 4.999 kg en bepaalt dat deze uitspraak in de plaats treedt van het vernietigde bestreden besluit;
+
+- draagt verweerder op het betaalde griffierecht van € 338,- aan appellante te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.312,50.
+
+Deze uitspraak is gedaan door mr. M. van Duuren, in aanwezigheid van mr. E.D.H. Nanninga, griffier. De beslissing is in het openbaar uitgesproken op 23 juni 2020.
+
+De voorzitter is niet in de gelegenheid			De griffier is niet in de gelegenheidde uitspraak te ondertekenen. 		                       de uitspraak te ondertekenen.
