@@ -1,0 +1,96 @@
+---
+ecli: "ECLI:NL:CBB:2020:460"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "18/956 en 18/957"
+decided: "2020-07-14"
+published: "2020-07-13"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:460"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:460 College van Beroep voor het bedrijfsleven , 14-07-2020 / 18/956 en 18/957
+
+## Inhoudsindicatie
+
+Regeling fosfaatreductieplan 2017; geen vrijstelling toepassing regeling; overschrijding redelijke termijn
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummers: 18/956, 18/957
+
+uitspraak van de enkelvoudige kamer van 14 juli 2020 in de zaak tussen
+
+Stille Maatschap [naam 1] en [naam 2], te [plaats] , appellante
+
+(gemachtigde: mr. drs. C.C. van Harten),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. G. Meijerink)
+
+en
+
+de Staat der Nederlanden (de minister van Justitie en Veiligheid), de Staat.
+
+Procesverloop
+
+Bij besluiten van 2 december 2017 en 6 december 2017 (de primaire besluiten) heeft verweerder op grond van de Regeling Fosfaatreductieplan 2017 (de Regeling) aan appellante heffingen opgelegd van € 463,- voor periode 1 en van € 2.760,- voor periode 2.
+
+Bij besluiten van 9 april 2018 en 8 mei 2018 (de bestreden besluiten) heeft verweerder de bezwaren van appellante tegen de primaire besluiten ongegrond verklaard.
+
+Appellante heeft beroep ingesteld tegen de bestreden besluiten.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het College heeft partijen telefonisch gehoord op 13 mei 2020. Het beroep is gevoegd behandeld met de beroepen, geregistreerd onder zaaknummers 18/963, 18/964, 18/965, 18/163 en 19/299. Appellante en verweerder hebben zich tijdens de telefonische hoorzitting (zitting) laten vertegenwoordigen door hun gemachtigden. Na de zitting heeft het College de behandeling van de zaken gesplitst.Overwegingen
+
+In verband met de uitbraak van het coronavirus kon in deze zaak een zitting in fysieke vorm bij het College niet plaatsvinden. Om die reden zijn partijen door middel van telehoren gehoord.
+
+De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel melkvee houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen, verminderd met 4% – met uitzondering van grondgebonden bedrijven – en omgerekend naar grootvee-eenheden (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer melkvee houdt dan het referentieaantal. Verweerder kent een bonusgeldsom toe indien een melkveehouder minder melkvee houdt dan het referentieaantal.
+
+De Regeling kent twee soorten heffingen, de hoge geldsom en de solidariteitsgeldsom. Welke heffing wordt opgelegd is mede afhankelijk van de vraag of in de betreffende periode het doelstellingsaantal is behaald. Het doelstellingsaantal is het aantal op 1 oktober 2016 geregistreerde runderen, verminderd met het voor de betreffende periode vastgestelde verminderingspercentage, met dien verstande dat het doelstellingsaantal nooit lager is dan het referentieaantal. Verweerder legt een hoge geldsom op indien in de betreffende periode meer GVE worden gehouden dan het doelstellingsaantal. De hoogte van de hoge geldsom bedraagt € 480,- voor elke GVE boven het referentieaantal. Een bedrijf dat inkrimpt tot het doelstellingsaantal, maar niet tot het referentieaantal, krijgt een solidariteitsgeldsom opgelegd van € 112,- voor elke GVE boven het referentieaantal.
+
+Appellante exploiteert een melkveebedrijf. Bij besluit van 27 mei 2017 heeft verweerder aan haar een solidariteitsgeldsom opgelegd van € 463,- voor periode 1. Bij besluit van 3 augustus 2017 heeft verweerder aan haar een hoge geldsom opgelegd van € 2.664,- voor periode 2. Bij brief van 15 september 2017 heeft appellante verweerder verzocht tot toepassing van de zogenoemde ‘lichte toets’ als bedoeld in het vonnis van de voorzieningenrechter van de rechtbank Den Haag van 9 augustus 2017 (ECLI:NL:RBDHA:2017:8944). Bij brief van 6 oktober 2017 heeft verweerder dit verzoek toegewezen. Bij besluit van 19 oktober 2017 heeft verweerder de besluiten van 27 mei 2017 en 3 augustus 2017 ingetrokken. Bij brief van 24 november 2017 heeft verweerder, naar aanleiding van de arresten van het gerechtshof Den Haag van 31 oktober 2017 (ECLI:NL:GHDHA:2017:3067 - 3072), medegedeeld dat hij alsnog aan appellante heffingen zal opleggen voor perioden 1 tot en met 5.
+
+Bij de primaire besluiten heeft verweerder opnieuw op grond van de Regeling aan appellante heffingen opgelegd van € 463,- voor periode 1 en van € 2.760,- voor periode 2.
+
+Appellante heeft ter zitting de beroepsgrond dat verweerder niet meer bevoegd was om een heffing op te leggen, omdat de termijn van artikel 8, eerste lid, van de Regeling voor het inwinnen van de geldsommen reeds was verstreken, ingetrokken.
+
+Appellante betoogt dat verweerder niet bevoegd was om de heffingen op te leggen, omdat hij de Regeling bij brief van 6 oktober 2017 voor haar buiten toepassing heeft verklaard en hij geen besluit heeft genomen om de Regeling weer op haar van toepassing te laten zijn. Daardoor bestond geen wettelijke basis meer voor het opleggen van een heffing. De beslissing om de Regeling buiten werking te stellen had geen voorwaardelijk karakter. Indien wordt geoordeeld dat dit wel het geval is, voert appellante aan dat het rechtzekerheidsbeginsel zich ertegen verzet dat door het vervullen van een voorwaarde bezwarende wetgeving met terugwerkende kracht van toepassing wordt. Er zijn voorts geen dringende en specifieke redenen aan de orde op grond waarvan het laten terugwerken van wetgeving die financieel nadeel oplevert rechtens toelaatbaar is. Het opleggen van heffingen over reeds verstreken periodes heeft geen corrigerende werking meer, omdat zij de bedrijfssituatie voor die periodes niet meer kan aanpassen. Er bestaat dus enkel nog een financieel belang.
+
+7.1.
+
+Anders dan appellante begrijpt het College de brief van verweerder van 6 oktober 2017 aldus dat verweerder daarin te kennen heeft gegeven, in afwachting van het arrest op het hoger beroep dat hij heeft ingesteld tegen de vonnissen van de voorzieningenrechter van de rechtbank Den Haag van 4 mei 2017 (ECLI:NL:RBDHA:2017:4632 - 4638), tijdelijk en met terugwerkende kracht geen gebruik te zullen maken van de hem toekomende bevoegdheid om op de grond van de Regeling heffingen op te leggen. Verweerder heeft appellante er in die brief voorts op gewezen dat naar aanleiding van het oordeel in hoger beroep alsnog heffingen kunnen worden opgelegd. Appellante mocht er op basis van deze brief dan ook niet van uitgaan dat verweerder de aan de Regeling te ontlenen bevoegdheid later niet alsnog zou gaan uitoefenen. Het stond verweerder dan ook vrij om na de arresten van het gerechtshof Den Haag (zie de arresten van 31 oktober 2017, ECLI:NL:GHDHA:2017:3067-3072) opnieuw of alsnog heffingen op te leggen aan appellante. Dat appellante haar bedrijfssituatie voor enkele periodes waarover de heffingen zijn opgelegd niet meer kon aanpassen, betekent niet dat de Regeling niet meer kon worden toegepast.
+
+8. Het beroep is ongegrond.
+
+9. Appellante heeft ter zitting aangevoerd dat de redelijke termijn als bedoeld in artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) is overschreden en zij heeft in verband daarmee verzocht een immateriële schadevergoeding toe te kennen.
+
+10. Het gaat hier om niet-punitieve procedures die volgen op primaire besluiten die zijn bekend gemaakt na 1 februari 2014. In dat geval geldt als uitgangspunt dat de bezwaar- en beroepsfase tezamen niet langer mogen duren dan twee jaar. Daarbij mag de behandeling van het bezwaar ten hoogste een half jaar en de behandeling van het beroep ten hoogste anderhalf jaar duren. Dit behoudens factoren die onder omstandigheden aanleiding kunnen geven overschrijding van deze behandelingsduren gerechtvaardigd te achten. Uitgangspunt voor compensatie is een tarief van € 500,- per half jaar dat de redelijke termijn is overschreden, waarbij het totaal van de overschrijding naar boven wordt afgerond.
+
+11. Het bezwaarschrift dateert van 10 januari 2018. Op het moment van het doen van deze uitspraak is de tweejaartermijn met ruim zes maanden overschreden. Van factoren die aanleiding kunnen geven overschrijding van de behandelingsduur gerechtvaardigd te achten is geen sprake. Appellante heeft daarom recht op € 1.000,- schadevergoeding.
+
+12. Het College stelt vast dat de overschrijding volledig is toe te rekenen aan het College, omdat de behandeling van het bezwaar niet meer dan een half jaar in beslag genomen heeft, terwijl de behandeling van het beroep meer dan twee jaar heeft geduurd. Het College zal daarom op grond van artikel 8:88 van de Algemene wet bestuursrecht de Staat (minister van Justitie en Veiligheid) veroordelen tot betaling van een bedrag van € 1.000,- aan appellante.
+
+13. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+Het College
+
+- verklaart het beroep ongegrond;
+
+- veroordeelt de Staat der Nederlanden (minister van Justitie en Veiligheid) om aan appellante een vergoeding voor immateriële schade van € 1.000,- te betalen.
+
+Deze uitspraak is gedaan door mr. H.C.P. Venema, in aanwezigheid van mr. H.A. Komduur, griffier. De beslissing is in het openbaar uitgesproken op 14 juli 2020.
+
+De voorzitter is verhinderd	De griffier is verhinderd de uitspraak te ondertekenen.	de uitspraak te ondertekenen.
