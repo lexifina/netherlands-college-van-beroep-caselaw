@@ -1,0 +1,141 @@
+---
+ecli: "ECLI:NL:CBB:2020:609"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "17/1760, 18/189, 18/193 en 19/160"
+decided: "2020-09-08"
+published: "2020-09-07"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:609"
+published_in: ["Rechtspraak.nl", "ABkort 2020/419", "JB 2020/196"]
+---
+
+# ECLI:NL:CBB:2020:609 College van Beroep voor het bedrijfsleven , 08-09-2020 / 17/1760, 18/189, 18/193 en 19/160
+
+## Inhoudsindicatie
+
+Regeling Fosfaatreductieplan 2017, analoge toepassing uitscharingsregels bij toepassing knelgevallenregeling, onjuiste vaststelling proceskostenvergoeding door verweerder.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummers: 17/1760, 18/189, 18/193 en 19/160
+
+uitspraak van de enkelvoudige kamer van 8 september 2020 in de zaak tussen
+
+[naam 1] V.O.F., te [plaats] (gemeente [gemeente] ), appellante
+gemachtigde: ing. W. van de Geest,
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+gemachtigden: mr. S.J.E. Loontjes en B. Veldkamp.
+
+Procesverloop
+
+Bij besluiten van 17 juni 2017, 3 augustus 2017, 23 september 2017, 25 november 2017 en 17 februari 2018 (de primaire besluiten 1 tot en met 5) heeft verweerder op grond van de Regeling Fosfaatreductieplan 2017 (de Regeling) aan appellante bonusgeldsommen toegekend van € 462,- voor periode 1, van € 492,- voor periode 2, van € 278,- voor periode 3, van € 912,- voor periode 4 en van € 468,- voor periode 5.
+
+Bij besluiten van 23 oktober 2017, 12 januari 2017 (lees: 2018) en 24 januari 2018 heeft verweerder de bezwaren van appellante tegen de primaire besluiten 1 tot en met 3 ongegrond verklaard.
+
+Appellante heeft tegen deze drie besluiten afzonderlijk beroep ingesteld. Deze beroepen hebben de zaaknummers 17/1760, 18/189 en 18/193 gekregen.
+
+Bij besluit van 16 juni 2018 heeft verweerder de aan appellante toegekende bonusgeldsommen voor periode 1, 2 en 4 verlaagd naar € 245,-, € 266,- respectievelijk € 162,- en appellante voor periode 3 en 5 hoge geldsommen opgelegd van € 552,- en € 1.944,-.
+
+Bij besluit van 3 december 2018 heeft verweerder de door appellante gemaakte bezwaren tegen de primaire besluiten 4 en 5 en het besluit van 16 juni 2018 deels gegrond verklaard, de eerdere besluiten over periode 2 tot en met 5 herroepen en appellante voor die perioden bonusgeldsommen toegekend van respectievelijk € 1.940,40, € 1.940,40, € 4.851,- en € 4.851,-.
+
+Appellante heeft beroep ingesteld tegen het besluit van 3 december 2018. Dit beroep heeft zaaknummer 19/160 gekregen.
+
+Bij besluit van 27 februari 2019 heeft verweerder het besluit van 3 december 2018 herzien, appellante voor de perioden 1 tot en met 5 bonusgeldsommen toegekend van respectievelijk € 1.328,40, € 1.940,40, € 1.940,40, € 4.851,- en € 4.851,-, en haar een proceskostenvergoeding toegekend.
+
+Bij brief van 19 maart 2019 heeft appellante te kennen gegeven haar beroepen te handhaven, onder verwijzing naar de motivering van het beroepschrift in zaaknummer 19/160.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Appellante heeft een nader stuk ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 10 juni 2020. Appellante is verschenen in de persoon van haar vennoot [naam 2] , bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden. Het College heeft het onderzoek ter zitting geschorst teneinde verweerder in de gelegenheid te stellen schriftelijk te reageren op het nadere stuk van appellante.
+
+Verweerder heeft een schriftelijke reactie ingediend.
+
+Appellante heeft schriftelijk op dit stuk gereageerd.
+
+Beide partijen hebben toestemming gegeven voor het doen van een uitspraak zonder nadere zitting. Het College heeft daarop het onderzoek gesloten.
+
+Overwegingen
+
+Omvang geschil
+1.	Appellante heeft afzonderlijk beroep ingesteld tegen de besluiten van 23 oktober 2017, 12 januari 2017 (lees: 2018), 24 januari 2018 en 3 december 2018. Nu het besluit van verweerder van 27 februari 2019 alle eerdere door appellante bestreden besluiten heeft vervangen, richten de beroepen van appellante zich, gelet op artikel 6:19 van de Algemene wet bestuursrecht (Awb), van rechtswege ook tegen dit besluit.  Gesteld noch gebleken is dat appellante nog belang heeft bij de beoordeling van de beroepen tegen de besluiten van 23 oktober 2017, 12 januari 2017 (lees: 2018), 24 januari 2018 en 3 december 2018. Het College zal de beroepen van appellante daarom in zoverre niet-ontvankelijk verklaren. Hierna zal het College het besluit van 27 februari 2019 beoordelen aan de hand van de door appellante aangevoerde gronden.
+
+De Regeling
+2.	De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel vrouwelijke runderen houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen, verminderd met 4% – met uitzondering van grondgebonden bedrijven – en omgerekend naar grootvee-eenheden (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer vrouwelijke runderen houdt dan het referentieaantal. Verweerder kent een bonusgeldsom toe indien een melkveehouder minder vrouwelijke runderen houdt dan het referentieaantal.
+
+3. In artikel 12 van de Regeling is de zogenoemde knelgevallenregeling neergelegd. Artikel 12, tweede lid, van de Regeling maakt het mogelijk het referentieaantal te bepalen aan de hand van het aantal runderen dat voor de intreding van bijvoorbeeld een dierziekte of ziekte van een persoon van het samenwerkingsverband van de houder is geregistreerd. Daarvoor geldt als voorwaarde dat appellante aantoont dat het referentieaantal minimaal 5% lager is door die buitengewone omstandigheid. Het wetsartikel maakt het verhogen van het referentieaantal mogelijk door het vervroegen van het peilmoment. Bij de beoordeling of voldaan wordt aan de 5%-voorwaarde wordt een vergelijking gemaakt tussen de bedrijfssituatie op het moment van intreden van de buitengewone omstandigheid en de bedrijfssituatie op de peildatum 2 juli 2015.
+
+Situatie appellante
+
+4. Appellante exploiteert een melkveehouderij. Op 29 maart 2017 heeft zij een beroep gedaan op de knelgevallenregeling. Volgens appellante was de veebezetting op haar bedrijf op 2 juli 2015 ongeveer 11% lager ten opzichte van die in 2011 vanwege gezondheidsproblemen bij het vee in de periode 2011-2013 en vanwege langdurige ziekte van twee van de vennoten van haar bedrijf in de periode 2012-2013. Gelet hierop heeft appellante verweerder verzocht uit te gaan van het referentieaantal koeien dat zij op 31 januari 2011 hield.
+
+Inhoud besluit 27 februari 2019
+5. In het besluit van 27 februari 2019 heeft verweerder de knelgevallenregeling toegepast vanwege dierziekte. Volgens verweerder was het referentieaantal op 2 juli 2015, na aftrek van het kortingspercentage van 4%, 152,69 GVE, terwijl dat op 31 januari 2011, eveneens na aftrek van het kortingspercentage van 4%, 161,72 GVE was. Daarmee was het aantal GVE op 2 juli 2015 meer dan 5% lager dan onder normale omstandigheden het geval zou zijn en wordt voor de toepassing van de Regeling daarom uitgegaan van een referentieaantal van 161,72 GVE.	Voor zover appellante een beroep heeft gedaan op de knelgevallenregeling vanwege ziekte van twee van de vennoten, heeft verweerder dat niet gehonoreerd, omdat het referentieaantal op 2 juli 2015, na aftrek van het kortingspercentage van 4%, niet 5% lager was dan het referentieaantal, na aftrek van het kortingspercentage, op de daarvoor door appellante aangedragen alternatieve peildatum van 3 oktober 2012. 	Bij de aan appellante toegekende bonusgeldsommen is gelet op het voorgaande uitgegaan van een referentieaantal van 161,72 GVE. Voorts is verweerder bij de berekening daarvan uitgegaan van de door appellante zelf aangevoerde maandgemiddelden, aldus verweerder. Ten slotte heeft verweerder appellante een proceskostenvergoeding toegekend. BeroepUitgeschaarde runderen ten onrechte niet meegenomen bij referentieaantal6.	Appellante betoogt dat verweerder bij de berekening van haar referentieaantal op de alternatieve peildatum van 1 februari 2011 ten onrechte niet de 34 runderen heeft meegenomen die door haar op 1 november 2010 waren uitgeschaard. Volgens appellante meet verweerder hierdoor met twee maten, nu verweerder bij de vaststelling van het referentieaantal op 2 juli 2015 wèl ook de uitgeschaarde dieren meeneemt. Bij toepassing van een alternatieve peildatum zou dit ook moeten gebeuren, aldus appellante.
+
+6.1
+
+In het verweerschrift heeft verweerder uiteengezet dat appellante terecht heeft aangevoerd dat de dieren die op 1 november 2010 waren uitgeschaard mee hadden moeten worden genomen bij de vaststelling van het referentieaantal. Volgens verweerder gaat het hierbij echter niet om 34 runderen, maar om 18 runderen, nu slechts 18 runderen in 2011 en 2012 op het bedrijf van appellante zijn teruggekeerd. De andere 16 runderen zijn niet meer teruggekomen op het bedrijf van appellante en moeten dus als afgevoerd worden beschouwd, aldus verweerder.	Rekening houdend met de 18 uitgeschaarde runderen is het referentieaantal op de alternatieve peildatum van 1 februari 2011, inclusief het kortingspercentage, niet 161,72 GVE, maar 168 GVE. Gelet hierop dienen de aan appellante toe te kennen bonusgeldsommen te worden verhoogd tot bedragen van € 2.016,- voor de perioden 1 tot en met 3 en tot bedragen van € 5.040,- voor de perioden 4 en 5, aldus verweerder.
+
+6.2
+
+Appellante heeft in reactie hierop aangegeven dat ook de andere 16 runderen bij de vaststelling van het referentieaantal op 1 februari 2011 hadden moeten worden meegenomen, nu zij op die datum eigenaar was van die dieren. Voorts wijst zij op 8 andere runderen die volgens haar door verweerder ten onrechte niet zijn meegenomen bij de vaststelling van het referentieaantal op 1 februari 2011.
+
+6.3
+
+Naar het oordeel van het College heeft verweerder terecht de 16 runderen die op 1 februari 2011 waren uitgeschaard, maar daarna niet meer zijn teruggekomen op het bedrijf van appellante, niet meegenomen bij de vaststelling van het referentieaantal op de alternatieve peildatum. Uit artikel 11 van de Regeling volgt dat het referentieaantal van een melkveehouder kan worden verhoogd indien – kort gezegd – de houder aantoont dat de dieren in de eerste helft van 2015 zijn uitgeschaard en uiterlijk op 31 december 2015 weer op zijn bedrijf teruggekomen zijn. Verweerder heeft terecht gesteld dat de Regeling geen vergelijkbare bepaling bevat indien vanwege de toepassing van de knelgevallenregeling van een alternatieve peildatum wordt uitgegaan, maar dat het in een geval als dit aangewezen is de regels omtrent uitscharing, zoals neergelegd in artikel 11, analoog toe te passen. Dit betekent dat verweerder zich terecht op het standpunt stelt dat de dieren die op 1 februari 2011 zijn uitgeschaard voor een bepaalde datum op het bedrijf moeten zijn teruggekeerd om meegenomen te kunnen worden bij de vaststelling van het referentieaantal op die datum. Niet in geschil is dat de 16 runderen weliswaar op 1 februari 2011 waren uitgeschaard, maar niet zijn teruggekeerd op het bedrijf van appellante. Dit betekent dat deze runderen terecht niet zijn meegenomen bij de vaststelling van het referentieaantal van appellante op de alternatieve peildatum. Dat appellante op die datum eigenaar was van de dieren, doet hier niet aan af. Verweerder heeft er terecht op gewezen dat bij de vaststelling van het referentieaantal wordt uitgegaan van het aantal runderen dat volgens het I&R-systeem op het bedrijf van appellante geregistreerd staan en niet van het aantal runderen dat op die datum bij haar in eigendom is.	Over de 8 runderen die volgens appellante eveneens ten onrechte niet zijn meegenomen bij de vaststelling van het referentieaantal heeft verweerder in zijn schriftelijke reactie van 18 juni 2020 uiteengezet dat hij deze runderen wel degelijk heeft meegenomen bij de vaststelling van het referentieaantal op 1 februari 2011. Appellante heeft dat niet weersproken. 	Het betoog slaagt niet.
+
+7.	Appellante betoogt verder dat door verweerder selectief wordt omgegaan met dieren die als gevolg van dierziektes zoals salmonella en neospora verplicht geslacht moesten worden en daardoor niet konden terugkeren op het bedrijf. Deze dieren worden niet meegenomen in de berekening terwijl juist de bijzondere omstandigheid de oorzaak is van deze afvoer. Appellante is van mening dat dieren die gestorven zijn op het opfokbedrijf wel degelijk meegenomen dienen te worden in de berekening van de bijzondere omstandigheden.
+
+7.1
+
+Uit het beroepschrift blijkt dat de uitscharing van de 34 runderen naar een opfokbedrijf heeft plaatsgevonden, omdat appellante op haar eigen bedrijf te weinig plaats had om al het jongvee op te fokken. Een deel van die dieren, 16 runderen, is op het opfokbedrijf ziek geworden en daarom niet meer teruggekeerd op het bedrijf van appellante. De stelling dat deze dieren zijn afgevoerd vanwege de als bijzondere omstandigheid aangemerkte dierziekte op het bedrijf van appellante is dan ook feitelijk onjuist. 	Reeds hierom slaagt het betoog niet.
+
+Onjuiste vergelijking referentieaantal op 1 februari 2011 en 2 juli 2015
+
+8.	Appellante betoogt voorts dat verweerder heeft miskend dat zij op 2 juli 2015 houder was van twee aparte UBNs, te weten [… 1] en [… 2] . Nu zij op 1 februari 2011 alleen houder was van het UBN [… 1] , had verweerder bij de vergelijking van de referentieaantallen op 1 februari 2011 en 2 juli 2015 in het kader van de knelgevallenregeling voor het referentieaantal op 2 juli 2015 alleen uit moeten gaan van het aantal runderen op UBN [… 1] en het aantal runderen op UBN [… 2] buiten beschouwing moeten laten. Door dat niet te doen, is verweerder uitgegaan van een te hoog aantal GVE op 2 juli 2015 en is een onjuiste vergelijking gemaakt, aldus appellante.
+
+8.1
+
+Zoals hiervoor onder 5 uiteen is gezet, heeft verweerder zich in het besluit van 27 februari 2019 op het standpunt gesteld dat het aantal GVE op het bedrijf van appellante op 2 juli 2015 vanwege dierziekte meer dan 5% lager was dan onder normale omstandigheden het geval zou zijn. Daarom is hij uitgegaan van het aantal GVE op 1 februari 2011. Nu verweerder hiermee de knelgevallenregeling heeft toegepast en het referentieaantal op 2 juli 2015 niet meer het uitgangspunt is, heeft appellante geen belang meer bij een inhoudelijke beoordeling van dit betoog. Zij kan daarmee immers niet meer bereiken dan zij thans al heeft bereikt, namelijk de toepassing van de knelgevallenregeling en het aannemen van een alternatieve peildatum voor de vaststelling van het referentieaantal.
+
+Individuele buitensporige last
+
+9.	Ter zitting heeft appellante te kennen gegeven haar grond dat verweerder heeft miskend dat sprake is van een individuele buitensporige last niet te handhaven. Deze grond wordt daarom niet meer besproken.
+
+Proceskostenvergoeding
+10.	Appellante betoogt ten slotte dat de aan haar toegekende proceskostenvergoeding voor bezwaar door verweerder onjuist is vastgesteld. Nu er feitelijk sprake is van het herroepen van vier besluiten, te weten de besluiten die zien op de periodes 2 tot en met 5, had er een factor 1,5 moeten worden toegepast. Daarnaast is er inmiddels zes keer een bezwaar ingediend, te weten tegen de primaire besluiten over periode 1, 2, 3, 4 en 5 en tegen het besluit van 16 juni 2018. Verder zijn er in bezwaar meerdere hoorzittingen geweest, aldus appellante.
+
+10.1
+
+In het besluit van 27 februari 2019 heeft verweerder appellante een vergoeding van de in bezwaar gemaakte proceskosten toegekend van in totaal € 1.024,-. Dit bedrag bestaat uit een vergoeding voor het bijwonen van een hoorzitting ter hoogte van € 512,- (1 punt) en een vergoeding voor het opstellen van drie nauw verwante bezwaarschriften ter hoogte van € 512,- (1 punt).
+
+10.2
+
+Uit het verweerschrift blijkt dat er in bezwaar drie maal, op verschillende data, een telefonische hoorzitting heeft plaatsgevonden. Verweerder heeft miskend dat hij voor ieder van die hoorzittingen 1 punt als bedoeld in de bijlage van het Besluit proceskosten bestuursprocesrecht (Bpb) had moeten toekennen. Voorts heeft verweerder miskend dat appellante niet alleen bezwaarschriften heeft ingediend tegen de primaire besluiten 1, 2 en 3, maar ook tegen de primaire besluiten 4 en 5 en tegen het besluit van 16 juni 2018. Weliswaar is hier sprake van samenhangende zaken als bedoeld in artikel 3, tweede lid, van het Bpb, maar omdat het om meer dan vier zaken gaat had verweerder op grond van bijlage C2 van het Bpb daarop factor 1,5 moeten toepassen.	Het betoog slaagt.
+
+Conclusie
+
+11. Gelet op hetgeen onder 1 is overwogen, zijn de beroepen van appellante tegen de besluiten van 23 oktober 2017, 12 januari 2017 (lees: 2018), 24 januari 2018 en 3 december 2018 niet-ontvankelijk. Gelet op hetgeen uiteen is gezet in overweging 6.1 en overweging 10.2 van deze uitspraak, zijn de van rechtswege ontstane beroepen van appellante tegen het besluit van 27 februari 2019 gegrond. Dit besluit dient te worden vernietigd omdat verweerder eerst in verweer heeft erkend dat hij rekening had moeten houden met ten tijde van de alternatieve peildatum uitgeschaarde runderen en hij appellante voorts een te lage vergoeding voor de in bezwaar gemaakte proceskosten heeft toegekend. Het College zal, zelf in de zaak voorziend en overeenkomstig de door verweerder gemaakte nieuwe berekening, de aan appellante toe te kennen bonusgeldsommen voor ieder van de perioden 1 tot en met 3 vaststellen op € 2.016,- en voor zowel periode 4 als 5 op € 5.040,-. Voorts zal het College bepalen dat verweerder aan appellante de gemaakte kosten van bezwaar vergoedt. De waarde van 1 punt is thans € 525,-. Gelet op hetgeen in overweging 10.2 uiteen is gezet, betekent dit dat appellante recht heeft op 3x € 525,- voor het bijwonen van de hoorzittingen en 1,5x € 525,- voor het opstellen van de bezwaarschriften. Dit maakt een totaal van € 2.362,50.
+
+12. Omdat de beroepen tegen het besluit van 27 februari 2019 gegrond zijn, zal het College verweerder eveneens veroordelen in de door appellante gemaakte kosten van beroep. Omdat het om vier beroepen gaat in samenhangende zaken, geldt ook hier een factor 1,5. Dit betekent dat appellante recht heeft op in totaal € 1.575.-, te weten 1,5x € 525,- voor het indienen van de beroepschriften en 1,5x € 525,- voor het verschijnen ter zitting.
+
+Beslissing
+
+Het College
+
+- verklaart de beroepen, voor zover gericht tegen de besluiten van 23 oktober 2017 met kenmerk 494-3547, 12 januari 2017 (lees: 2018) met kenmerk 494-5763, 24 januari 2018 met kenmerk 494-8375 en 3 december 2018 met kenmerken 494‑10614, 494-19969 en 494-27291, niet-ontvankelijk;- verklaart de beroepen tegen het besluit van 27 februari 2019 met kenmerk 494‑31025 gegrond; - vernietigt dit besluit;- stelt de aan appellante toe te kennen bonusgeldsommen voor periode 1 op € 2.016,-, voor periode 2 op € 2.016,-, voor periode 3 op € 2.016,-, voor periode 4 op € 5.040,- en voor periode 5 op € 5.040,- vast;- veroordeelt verweerder in de in bezwaar gemaakte proceskosten van appellante tot een bedrag van € 2.362,50;- bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;- veroordeelt verweerder in de in beroep gemaakte proceskosten van appellante tot een bedrag van € 1.575,- ;- draagt verweerder op het betaalde griffierecht van € 1.354,-  aan appellante te vergoeden.
+
+Deze uitspraak is gedaan door mr. J.A. Hagen, in aanwezigheid van mr. I.S. Ouwehand, griffier. De beslissing is in het openbaar uitgesproken op 8 september 2020.
+
+De voorzitter is verhinderd 				w.g. I.S. Ouwehandde uitspraak te ondertekenen.
