@@ -1,0 +1,95 @@
+---
+ecli: "ECLI:NL:CBB:2020:664"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "18/2040, 18/2041, 18/2042, 18/2043 en 18/2044"
+decided: "2020-10-06"
+published: "2020-10-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:664"
+published_in: ["Rechtspraak.nl", "JOM 2020/525"]
+---
+
+# ECLI:NL:CBB:2020:664 College van Beroep voor het bedrijfsleven , 06-10-2020 / 18/2040, 18/2041, 18/2042, 18/2043 en 18/2044
+
+## Inhoudsindicatie
+
+Regeling fosfaatreductieplan 2017. Appellante is door het maken van bezwaar niet in een nadeliger positie komen te verkeren. Er is alleen al daarom geen sprake van strijd met het verbod op reformatio in peius. Geen strijd met het motiverings- en zorgvuldigheidsbeginsel.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummers: 18/2040, 18/2041, 18/2042, 18/2043 en 18/2044
+
+uitspraak van de enkelvoudige kamer van 6 oktober 2020 in de zaak tussen
+
+Maatschap [naam 1] , [naam 2] en [naam 3] , te [plaats] , hierna tezamen en in enkelvoud: appellante,
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. A.R. Alladin).
+
+Procesverloop
+
+Bij besluiten van 24 en 31 maart 2018 en 7, 14 en 21 april 2018 (de primaire besluiten) heeft verweerder op grond van de Regeling fosfaatreductieplan 2017 (de Regeling) aan appellante heffingen opgelegd van € 1.404,- voor periode 1, van € 3.912,- voor periode 2, van € 6.182,- voor periode 3, van € 5.870,- voor periode 4 en van € 4.085,- voor periode 5.
+
+Bij afzonderlijke besluiten van 8 augustus 2018 (de bestreden besluiten) heeft verweerder de bezwaren van appellante tegen de primaire besluiten gegrond verklaard, de primaire besluiten herroepen en aan appellante heffingen opgelegd van € 1.011,36- voor periode 1, van € 2.227,20- voor periode 2, van € 4.497,60 voor periode 3, van € 4.185,60,- voor periode 4 en van € 2.400,- voor periode 5.
+
+Appellante heeft beroep ingesteld tegen de bestreden besluiten.
+
+Bij besluit van 22 september 2018 heeft verweerder op grond van de Regeling aan appellante heffingen opgelegd van € 1.011,- voor periode 1, van € 2.227,- voor periode 2, van € 4.498,- voor periode 3, van € 4.186,- voor periode 4 en van € 2.400,- voor periode 5.
+
+Bij besluit van 14 december 2018 heeft verweerder het door appellante daartegen gemaakte bezwaar ongegrond verklaard.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 16 september 2020. Appellante is verschenen, vertegenwoordigd door [naam 3] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+Inleiding
+1. De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel melkvee houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen verminderd met 4% – met uitzondering van grondgebonden bedrijven –  en omgerekend naar grootvee-eenheid (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer melkvee houdt dan het referentieaantal en kent verweerder een bonusgeldsom toe indien een melkveehouder minder melkvee houdt dan het referentieaantal op de peildatum.
+
+Omvang van het geschil
+2. Gelet op het bepaalde in artikel 6:19 van de Algemene wet bestuursrecht (Awb) heeft het beroep tegen de bestreden besluiten mede betrekking op het besluit van 14 december 2018. Nu de bestreden besluiten zijn vervangen door dit besluit en gesteld noch gebleken is dat appellante nog belang heeft bij de beoordeling van het beroep tegen de bestreden besluiten, zal het beroep daartegen niet-ontvankelijk worden verklaard.
+
+3. Appellante exploiteert een melkveebedrijf. Verweerder heeft aan appellante voor alle vijf de periodes van de Regeling heffingen opgelegd, omdat zij meer runderen hield dan het referentieaantal. In de primaire besluiten is verweerder ervan uitgegaan dat appellante op de peildatum 118 melkkoeien, 24 kalveren en 37 pinken hield (143,13 GVE). Omdat verweerder het bedrijf van appellante bij de primaire besluiten niet als grondgebonden heeft aangemerkt, is bij het bepalen van het referentieaantal een kortingspercentage van 4% toegepast en is het referentieaantal vastgesteld op 137,40 GVE. 	In het besluit van 14 december 2018 is verweerder ervan uitgegaan dat appellante op de peildatum 110 melkkoeien, 33 kalveren en 44 pinken hield (140,91 GVE). Omdat het bedrijf van appellante in dat besluit wel als grondgebonden is aangemerkt, is geen kortingspercentage van 4% toegepast en is het referentieaantal vastgesteld op 140,91 GVE.
+
+Beroepsgronden
+4. Appellante betoogt dat verweerder het referentieaantal niet mocht aanpassen en zeker niet ten nadele van haar bedrijf, omdat zij geen bezwaren tegen het referentieaantal als zodanig heeft ingediend, zij hier geen rekening mee heeft kunnen houden en zij door het indienen van bezwaar niet in een slechtere situatie mag komen. Volgens appellante is dit in strijd met het verbod van reformatio in peius. Verder betoogt appellante dat verweerder haar referentieaantal zonder enige motivering heeft aangepast en verlaagd en dat dit in strijd is met de motiveringsplicht en het zorgvuldigheidsbeginsel.
+
+Standpunt verweerder
+5. Verweerder heeft zich in het besluit van 14 december 2018 op het standpunt gesteld dat het referentieaantal wordt vastgesteld aan de hand van de gegevens in het Identificatie en Registratie systeem (I&R-systeem). In het verweerschrift heeft verweerder toegelicht dat hij ten tijde van het nemen van de primaire besluiten in de veronderstelling was dat het oorspronkelijke bedrijf van appellante niet grondgebonden was, maar dat het bedrijf dat appellante op 30 september 2015 had overgenomen wel grondgebonden was. Omdat verweerder in het systeem bij de berekening van het referentieaantal en de heffingen maar één keer de generieke korting van 4% voor niet grondgebonden bedrijven kan toepassen, heeft verweerder – om een juiste generieke korting te berekenen – gebruik gemaakt van fictieve dieraantallen (in totaal 143,13 GVE) om zo op het juiste en niet fictieve referentieaantal van 137,40 GVE uit te komen. De dieraantallen van in totaal 143,13 GVE heeft appellante in werkelijkheid nooit gehouden. In de primaire besluiten is bij de verwerking van de bedrijfsoverdracht ook vermeld dat verweerder voor het bepalen van het referentieaantal van appellante een correctie heeft toegepast op de dieraantallen om de juiste korting toe te passen en dat de dieraantallen zijn gecorrigeerd en af kunnen wijken van het werkelijke aantal gehouden dieren. Omdat in bezwaar is gebleken dat het oorspronkelijke bedrijf van appellante volledig grondgebonden is, is het referentieaantal zonder de generieke korting van 4% berekend (87,74 GVE van het oorspronkelijke bedrijf + 53,17 GVE van het verworven bedrijf = 140,91 GVE) en behoefde daarbij niet meer van een fictief aantal runderen te worden uitgegaan, aldus verweerder.
+
+Beoordeling
+6. Zoals het College eerder in de uitspraak van 28 juli 2020 (ECLI:NL:CBB:2020:485) heeft geoordeeld, mag verweerder bij de oplegging van heffingen op grond van de Regeling het I&R-systeem als uitgangspunt nemen voor de vaststelling van het op het bedrijf aanwezige aantal runderen. Wel bestaat hierbij de mogelijkheid om tegenbewijs te leveren. Appellante bestrijdt op zichzelf niet de juistheid van het in het I&R-systeem voor haar bedrijf geregistreerde aantal GVE op de peildatum 2 juli 2015, maar betwist dat verweerder naar aanleiding van haar bezwaar van andere, voor haar nadeligere, dieraantallen mocht uitgaan.
+
+6.1.
+
+Verweerder heeft het referentieaantal van appellante, vanwege de volledige grondgebondenheid van haar bedrijf en op grond van het op de peildatum in het I&R-systeem geregistreerde aantal GVE, aangepast van 137,40 GVE naar 140,91 GVE. Daarmee is de uitkomst van de bezwaarprocedure voor appellante niet minder gunstig, maar juist gunstiger, dan de uitkomst van de primaire besluiten. Anders dan appellante betoogt, is haar referentieaantal nooit 143,13 GVE geweest. Appellante is door het maken van bezwaar niet in een nadeliger positie komen te verkeren. Er is alleen al daarom geen sprake van strijd met het verbod op reformatio in peius. Het College volgt appellante verder niet in haar betoog dat de besluiten in strijd met het motiverings- en zorgvuldigheidsbeginsel zijn genomen, omdat verweerder in de primaire besluiten heeft vermeld dat en waarom van fictieve dieraantallen is uitgegaan en verweerder in het besluit van 14 december 2018 verder heeft toegelicht dat hij het referentieaantal van het volledig grondgebonden bedrijf van appellante op de gegevens in het I&R‑systeem heeft gebaseerd.
+
+6.2.
+
+Het betoog faalt.
+
+Slotsom
+
+7. Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+Beslissing
+
+Het College
+
+verklaart het beroep ongegrond.
+
+Deze uitspraak is gedaan door mr. J.A. Hagen in aanwezigheid van mr. A. Koelewijn, griffier. De beslissing is in het openbaar uitgesproken op 6 oktober 2020.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
