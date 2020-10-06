@@ -1,0 +1,119 @@
+---
+ecli: "ECLI:NL:CBB:2020:673"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "19/891"
+decided: "2020-10-06"
+published: "2020-10-05"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:673"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:673 College van Beroep voor het bedrijfsleven , 06-10-2020 / 19/891
+
+## Inhoudsindicatie
+
+Regeling fosfaatreductieplan 2017. Artikel 12, tweede lid, van de Regeling verzet zich er niet tegen dat bij de vergelijking wordt gerekend met een peildatum waarop de bedrijfsomstandigheden vergelijkbaar zijn met de omstandigheden zoals die op 2 juli 2015 zouden zijn geweest als de buitengewone omstandigheden zich niet hadden voorgedaan.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 19/891
+
+uitspraak van de enkelvoudige kamer van 6 oktober 2020 in de zaak tussen
+
+Veebedrijf [naam], te [plaats] , gemeente [gemeente] , appellante
+
+(gemachtigde: mr. E.T. Stevens),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. M. Krari).
+
+Procesverloop
+
+Bij besluiten van 17 juni 2017, 3 augustus 2017,  23 september 2017, 25 november 2017 en 27 januari 2018 (de primaire besluiten) heeft verweerder op  grond van de Regeling fosfaatreductieplan 2017 (de Regeling) aan appellante heffingen opgelegd van € 893,- voor periode 1, van € 3.562,- voor periode 2, van € 168,- voor periode 3, van € 214,- voor periode 4 en van € 54,- voor periode 5.
+
+Bij besluit van 27 maart 2019 (het bestreden besluit) heeft verweerder de bezwaren van appellante tegen de primaire besluiten ongegrond verklaard.
+
+Appellante heeft beroep ingesteld tegen het bestreden besluit.
+
+Verweerder heeft een verweerschrift ingediend.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 16 september 2020. Appellante is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+Inleiding
+
+De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel melkvee houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen verminderd met 4% – met uitzondering van grondgebonden bedrijven –  en omgerekend naar grootvee-eenheid (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer melkvee houdt dan het referentieaantal en kent verweerder een bonusgeldsom toe indien een melkveehouder minder melkvee houdt dan het referentieaantal op de peildatum.
+
+Artikel 12, tweede lid, van de Regeling luidt:“Indien de houder, meldt en aantoont dat het referentieaantal minimaal 5% lager is door bouwwerkzaamheden, diergezondheidsproblemen, ziekte, ziekte of overlijden van een persoon van het samenwerkingsverband van de houder of een bloed- of aanverwant in de eerste graad, of vernieling van melkveestallen, kan de minister op zijn verzoek het referentieaantal bepalen aan de hand van het aantal runderen dat voor de intreding van deze buitengewone omstandigheden is geregistreerd.”
+
+Feiten
+3. Appellante exploiteert een melkveebedrijf. Op de peildatum 2 juli 2015 hield appellante 70 melkkoeien en 66 stuks vrouwelijk jongvee (95,68 GVE). Het referentieaantal van appellante is 91,85 GVE.
+
+4. Op 27 maart 2017 heeft appellante een bijzondere omstandigheid gemeld en verweerder verzocht haar referentieaantal te verhogen. Appellante heeft vermeld dat een van de vennoten van haar bedrijf op de peildatum 2 juli 2015 voor 50% arbeidsongeschikt was, als gevolg van een ongeval in oktober 2014. De vennoot heeft daarbij schouderletsel opgelopen, waaraan hij in maart 2015 moest worden geopereerd. Doordat hij gedurende 8 maanden geen fysieke werkzaamheden kon verrichten, is bedrijfshulp ingeschakeld en is de veestapel tijdelijk ingekrompen. Appellant heeft verzocht om het referentieaantal te verhogen naar het gemiddelde niveau van 2014 of 2016.
+
+Besluitvorming
+5. Verweerder heeft zich in het bestreden besluit op het standpunt gesteld dat het aantal GVE op de peildatum 2 juli 2015 niet 5%, maar 3,37 % lager is dan op de alternatieve peildatum 16 oktober 2014 (98,90 GVE). Verweerder heeft toegelicht dat hij van 16 oktober 2014 als alternatieve peildatum is uitgegaan, omdat het ongeval op 17 oktober 2014 heeft plaatsgevonden. Verweerder is niet tegemoetgekomen aan het verzoek van appellante in bezwaar om van de alternatieve peildatum 2 juli 2014 uit te gaan, omdat verweerder geen causaal verband met die datum aanwezig acht. In aanvulling daarop heeft verweerder opgemerkt dat het verschil in aantal GVE tussen 2 juli 2014 (99,89 GVE) en 2 juli 2015 (95,68) 4,4% is, waardoor appellante nog steeds niet aan de 5%-norm voldoet.
+
+Beroepsgronden
+6. Appellante betoogt dat verweerder er ten onrechte van uitgaat dat zij op de alternatieve peildatum 2 juli 2014 99,89 GVE hield. Zij stelt dat zij op die datum 100,89 GVE hield en dat verweerder ten onrechte een rund dat zij op 2 juli 2014 heeft afgevoerd niet heeft meegeteld. Het verschil met het aantal GVE op peildatum 2 juli 2015 is daardoor niet 4,4% maar iets meer dan 5%. 	Verder betoogt appellante dat verweerder zich ten onrechte op het standpunt heeft gesteld dat er geen causaal verband bestaat tussen het aantal GVE op de alternatieve peildatum 2 juli 2014 en de peildatum 2 juli 2015. Volgens appellante levert het nemen van de alternatieve peildatum 2 juli 2014 juist een goed en eerlijk vergelijk op, omdat dan wordt uitgegaan van dezelfde omstandigheden op het bedrijf als het jaar erop, waarbij de bijzondere omstandigheid wordt meegewogen. Zij stelt dat de vergelijking met het aantal GVE net voor de aanvang van de bijzondere omstandigheid, in dit geval op 16 oktober 2014, geen eerlijke vergelijking oplevert, omdat de bedrijfssituatie in het najaar geheel anders is dan in de zomer. 	Subsidiair stelt appellante zich op het standpunt dat ook op 1 augustus 2014 aan de 5%-norm wordt voldaan en dat er, gelet op de korte tijd tussen 1 augustus en 16 oktober 2014, sprake is van een causaal verband.
+
+6.1.
+
+Artikel 12, tweede lid van de Regeling, maakt het mogelijk het peilmoment te vervroegen en het referentieaantal te bepalen aan de hand van het aantal runderen dat voor de intreding van de buitengewone omstandigheid is geregistreerd, onder de voorwaarde dat de melkveehouder aantoont dat het referentieaantal minimaal 5% lager is (5%-eis) dan onder normale omstandigheden het geval zou zijn geweest (zie ook de toelichting bij de Regeling, Strct. 2017, nr. 9915, blz. 11).
+
+6.2.
+
+Niet in geschil is dat het ongeval van een van de vennoten in oktober 2014 een buitengewone omstandigheid is als bedoeld in artikel 12, tweede lid, van de Regeling en dat appellante door deze omstandigheid op 2 juli 2015 minder runderen hield. In geschil is van welke alternatieve peildatum verweerder uit dient te gaan bij de beoordeling of aan de 5%-eis is voldaan en het referentieaantal met toepassing van artikel 12, tweede lid, van de Regeling kan worden verhoogd.
+
+6.3.
+
+Ter zitting heeft appellante toegelicht dat een vergelijking met de alternatieve peildatum 2 juli 2014 eerlijker en realistischer is dan een vergelijking met de dag voor het ongeval in oktober 2014. Zij heeft toegelicht dat zij in de zomermaanden altijd meer runderen houdt dan in oktober. Dit heeft ermee te maken dat de weidegang in de zomermaanden plaatsvindt en er op dat moment meer gras is dan in oktober, dus meer runderen kunnen worden gehouden. Daarna gaan de runderen weer op stal waar minder ruimte is. Appellante stelt verder dat in oktober altijd een aantal dieren wordt geruimd, om ruimte te maken voor de vaarzen die in de maanden daarna afkalveren, waarvan de piek zich in november bevindt. Volgens appellante kan het effect dat het ongeval op haar bedrijfsvoering heeft gehad het best worden vergeleken met een situatie waarbij de seizoensinvloeden en de daarmee gepaard gaande fluctuaties in dieraantallen buiten beschouwing worden gelaten.
+
+6.4.
+
+Het College volgt appellante in dit standpunt. Appellante heeft met hetgeen zij heeft aangevoerd aannemelijk gemaakt dat de vergelijking met de alternatieve peildatum 2 juli 2014 representatief is voor de situatie op het bedrijf van appellante onder normale omstandigheden, dus zonder dat het ongeval zich zou hebben voorgedaan. Artikel 12, tweede lid, van de Regeling verzet zich er niet tegen dat bij de vergelijking wordt gerekend met een peildatum waarop de bedrijfsomstandigheden vergelijkbaar zijn met de omstandigheden zoals die op 2 juli 2015 zouden zijn geweest als de buitengewone omstandigheden zich niet hadden voorgedaan. Het causaal verband tussen de buitengewone omstandigheid (het ongeval) en het lagere aantal runderen op 2 juli 2015 is immers nog steeds aanwezig. Dat zich tussen 2 juli 2014 en 2 juli 2015 nog andere omstandigheden hebben voorgedaan die van invloed zijn geweest op het referentieaantal van appellante is gesteld noch gebleken.	Volgens appellante hield zij op 2 juli 2014 100,89 GVE. Ook het College gaat daar van uit. In beroep heeft verweerder dit niet meer bestreden. Het aantal blijkt ook uit de door appellante overgelegde rundveestaat. Appellante stelt terecht dat op de peildatum afgevoerde runderen – dus ook de op de alternatieve peildatum afgevoerde runderen – meetellen voor het referentieaantal (vergelijk de uitspraak van het College 13 november 2018, ECLI:NLCBB:2018:594).
+
+6.5.
+
+Het voorgaande leidt tot de conclusie dat appellante op 2 juli 2015 minimaal 5% minder runderen hield dan onder normale omstandigheden het geval zou zijn geweest. Verweerder had daarom aanleiding moeten zien om het referentieaantal van appellante, met toepassing van artikel 12, tweede lid, van de Regeling te verhogen en te bepalen aan de hand van het aantal runderen dat op de alternatieve peildatum 2 juli 2014 op het bedrijf van appellante stond geregistreerd.
+
+6.6.
+
+Het betoog slaagt.
+
+Slotsom
+
+7. Het beroep is gegrond. Het bestreden besluit komt voor vernietiging in aanmerking.  Het College zal verweerder opdragen een nieuw besluit op bezwaar te nemen en hiervoor een termijn van zes weken stellen.
+
+8. Het College zal verweerder veroordelen in de door appellante in beroep gemaakte kosten. De kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525).
+
+Beslissing
+
+Het College
+
+- verklaart het beroep gegrond;
+
+- vernietigt het bestreden besluit;
+
+- draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit op bezwaar te nemen, met inachtneming van deze uitspraak;
+
+- draagt verweerder op het betaalde griffierecht van € 345,- aan appellante te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.050,-.
+
+Deze uitspraak is gedaan door mr. J.A. Hagen in aanwezigheid van mr. A. Koelewijn, griffier. De beslissing is in het openbaar uitgesproken op 6 oktober 2020.
+
+De voorzitter is verhinderd de uitspraak te ondertekenen.
+
+De griffier is verhinderd de uitspraak te ondertekenen.
