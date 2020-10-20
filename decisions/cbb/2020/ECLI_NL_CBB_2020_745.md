@@ -1,0 +1,233 @@
+---
+ecli: "ECLI:NL:CBB:2020:745"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "20/111 en 20/524"
+decided: "2020-10-20"
+published: "2020-10-19"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:745"
+published_in: ["Rechtspraak.nl", "ABkort 2020/470", "NJB 2020/2661", "JB 2020/227", "AB 2021/29 met annotatie van C.M.M. van Mil, R.P.A. Kraaijeveld"]
+---
+
+# ECLI:NL:CBB:2020:745 College van Beroep voor het bedrijfsleven , 20-10-2020 / 20/111 en 20/524
+
+## Inhoudsindicatie
+
+Artikel 76, eerste lid, Wet personenvervoer 2000. Last onder dwangsom wegens het verrichten van taxivervoer zonder vergunning. Beroep ongegrond (zaak 20/111). Artikel 5:37, eerste lid, Awb. Invordering dwangsom. Het is evident dat appellant gezien zijn financiële draagkracht niet in staat zal zijn de verbeurde dwangsom volledig te betalen. Beroep gegrond (zaak 20/524).
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummers: 20/111 en 20/524
+
+uitspraak van de enkelvoudige kamer van 20 oktober 2020 in de zaak tussen
+
+[naam 1] , te [plaats 1] , appellant
+(gemachtigden: mr. A. Kurt-Geçoğlu (zaaknummer 20/111) en mr. M. Yesildag (zaaknummer 20/524)),
+
+en
+
+de minister van Infrastructuur en Waterstaat, verweerder
+(gemachtigden: mr. N. Polat en mr. I.M. Kops).
+
+Procesverloop
+
+20/111
+
+Bij besluit van 27 mei 2019 (het primaire dwangsombesluit) heeft verweerder appellant een last onder dwangsom opgelegd wegens overtreding van artikel 76, eerste lid, van de Wet personenvervoer 2000 (hierna: Wp 2000).
+
+Bij besluit van 17 december 2019 (het bestreden dwangsombesluit) heeft verweerder het bezwaar ongegrond verklaard.
+
+Appellant heeft tegen het bestreden besluit beroep ingesteld (beroep 1).
+
+Verweerder heeft een verweerschrift ingediend.
+
+20/524
+
+Bij besluit van 11 december 2019 (het primaire invorderingsbesluit) heeft verweerder besloten tot invordering van een deel van de aan appellant opgelegde dwangsom.
+
+Bij besluit van 7 mei 2020 (het bestreden invorderingsbesluit) heeft verweerder het bezwaar ongegrond verklaard.
+
+Appellant heeft tegen het bestreden besluit beroep ingesteld (beroep 2).
+
+Verweerder heeft een verweerschrift ingediend.
+
+20/111 en 20/524
+
+Ten aanzien van een aantal stukken die verweerder verplicht is over te leggen heeft hij medegedeeld dat uitsluitend het College daarvan kennis zal mogen nemen. Bij beslissing van 11 augustus 2020 heeft het College de gevraagde beperking van de kennisneming gedeeltelijk gerechtvaardigd geacht. Appellant heeft het College toestemming verleend om mede op grondslag van die stukken uitspraak te doen.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 20 augustus 2020. Appellant is niet verschenen, maar heeft zich laten vertegenwoordigen door zijn gemachtigde mr. M. Yesildag. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.
+
+Overwegingen
+
+1.1
+
+Op 3 maart 2019 hebben ambtenaren van de politie Eenheid Oost-Brabant vastgesteld dat appellant taxivervoer verrichtte zonder dat hij in het bezit was van de daarvoor krachtens de Wp 2000 vereiste vergunning.
+
+1.2
+
+Op 10 april 2019 heeft verweerder appellant een voornemen tot het opleggen van een last onder dwangsom toegezonden. Bij brief van 8 mei 2019 heeft appellant zijn zienswijze kenbaar gemaakt. Bij primair dwangsombesluit heeft verweerder aan appellant een last onder dwangsom opgelegd. Deze houdt in dat appellant zich dient te onthouden van overtreding van artikel 76, eerste lid, van de Wp 2000 en dat appellant bij elke overtreding van artikel 76, eerste lid, van de Wp 2000 een dwangsom verbeurt van € 10.000,- tot een maximum van € 40.000,-.
+
+1.3
+
+Op 18 augustus 2019 hebben ambtenaren van de politie Eenheid Oost-Nederland appellant aangehouden op verdenking van overtreding van artikel 76, eerste lid, van de Wp 2000. Het op deze aanhouding betrekking hebbende proces-verbaal aanhouding van 30 september 2019 is op ambtsbelofte opgemaakt. Daarin is voor zover hier van belang het volgende vermeld:
+
+“Op zondag 18 augustus 2019, omstreeks 02:35 uur, werd door ons, verbalisanten, aan de bestuurder van de personenauto [merk] , met kenteken [kenteken] middels de op ons dienstvoertuig aangebrachte stoptransparant, een stopteken gegeven, waaraan de bestuurder voldeed. Het stopteken werd gegeven op de […] , uiteindelijk stopten wij op de [adres] te [plaats 2] . De wettelijke grondslag voor dit stopteken betrof artikel 160 van de Wegenverkeerswet. De bestuurder van de betrokken personenauto reed voordat wij hem een stopteken gaven met groot licht.
+
+Op zondag 18 augustus 2019, omstreeks 02:36 uur, liepen wij verbalisanten in de richting van de personenauto. In de personenauto zagen wij in totaal 5 personen zitten. Verbalisant [naam 2] vorderde de bestuurder zijn rij- en kentekenbewijs. Wij zagen dat de bestuurder [naam 1] betrof, geboren [geboortedatum] te [geboorteplaats] , [geboorteland] . (…) Verbalisant [naam 2] vroeg [naam 1] wat de relatie was tussen hem en de bijrijders. [naam 1] verklaarde dat de bijrijders zijn maatjes waren en dat zij vanuit [plaats 1] onderweg waren naar huis. Wij verbalisanten gaven aan dat wij de samenstelling apart vonden. Dit gezien het leeftijdsverschil. Wij verbalisanten vroegen aan de bijrijders waar zij naar onderweg waren. Twee bijrijders vertelden ons dat zij naar [plaats 2] moesten. De andere twee vertelden ons dat zij naar [plaats 3] moesten. Wij verbalisanten hadden allebei het vermoeden dat [naam 1] zich schuldig maakte aan het vervoeren van personen zoals omschreven in de Wet personenvervoer 2000. Wij verbalisanten zagen dat [naam 1] niet beschikte over een daadwerkelijke taxivergunning en dat zijn personenauto niet ingericht was als conform de wet en regelgeving als zijnde taxi. Verbalisant [naam 2] deelde hierom [naam 1] de cautie mede. Verbalisant [naam 2] ging naast [naam 1] zitten. De bijrijder genaamd [naam 3] kwam naast mij zitten in de opvallende politieauto. Wij verbalisanten spraken af met [naam 1] dat wij naar de woning van [naam 3] reden.
+
+In de politieauto onderweg naar de woning van [naam 3] verklaarde [naam 3] tegenover mij, verbalisant [naam 4] dat zij inderdaad gebruik maakte van een zogenaamde zwarte taxi. [naam 3] vertelde mij dat hij samen met zijn vriend en vriendinnen wat was wezen drinken op het terras in [plaats 1] . Zij kregen hier via een taxichauffeur een telefoonnummer. […] De vriendin van [naam 3] nam telefonisch contact op met dit telefoonnummer en kwam zo in contact met [naam 1] . [naam 1] zou hun 4 voor 40 a 45 euro naar huis brengen. [naam 3] vertelde mij dat hij [naam 1] niet kende en na vandaag nooit eerder gezien had. Wij zetten [naam 3] voor zijn woning aan het (…) af.”
+
+1.4
+
+Bij het primaire invorderingsbesluit heeft verweerder besloten tot invordering van een gedeelte van de aan appellant opgelegde dwangsom ten bedrage van € 2.400,- op de grond dat appellant in strijd heeft gehandeld met de last.
+
+1.5
+
+Naar aanleiding van de door appellant op 7 november 2019 ingediende zienswijze en hetgeen naar voren is gebracht op de hoorzitting van 21 november 2019 heeft verweerder bij het primaire invorderingsbesluit het verbeurde bedrag van € 10.000,- gematigd tot een bedrag van € 2.400,-.
+
+1.6
+
+Blijkens de beschikking van de enkelvoudige raadkamer ingevolge artikel 552a van het Wetboek van Strafvordering van de rechtbank Gelderland van 29 januari 2020, gegeven op het klaagschrift van appellant met betrekking tot de onder hem in beslag genomen personenauto met het kenteken [kenteken] , heeft het Openbaar Ministerie ter terechtzitting verklaard dat de strafzaak van appellant niet zal worden afgedaan met een strafbeschikking en derhalve voor de politierechter zal worden gebracht. Appellant heeft ter zitting van het College verklaard dat hij nog niet is gedagvaard door het Openbaar Ministerie.
+
+2.1
+
+Aan het bestreden dwangsombesluit heeft verweerder het volgende ten grondslag gelegd. Dat appellant op 3 maart 2019 taxivervoer heeft verricht zonder dat hij in het bezit was van de daarvoor vereiste vergunning staat genoegzaam vast. De last onder dwangsom is op juiste gronden opgelegd, nu in de aard van de overtreding, die zich kenmerkt door het stelselmatig verrichten van taxivervoer, ligt besloten dat gevaar voor herhaling aanwezig is. De hoogte van het dwangsombedrag is afgestemd op het financiële voordeel dat kan worden verwacht bij het niet naleven van artikel 76 van de Wp 2000. Dit voordeel bestaat uit twee componenten, namelijk de kosten die de overtreder zich bespaart doordat hij taxivervoer zonder een daartoe verleende vergunning verricht (gemiddeld tussen de € 4.000,- en € 4.500,-) en de omzet die de overtreder met dit taxivervoer behaalt. Omdat de last onder dwangsom een effectieve werking beoogt en omdat om dit doel te bereiken de dwangsom zodanig hoog zal moeten zijn dat de overtreder de overtreding niet nogmaals begaat, heeft verweerder op het totale financiële voordeel een hem redelijk voorkomende vermenigvuldigingsfactor toegepast. Aldus is vervolgens de hoogte van de dwangsom in de Beleidsregels last onder dwangsom personenvervoer over de weg (Beleidsregels) vastgesteld op € 10.000,- per overtreding van artikel 76, eerste lid, van de Wp 2000. Daarbij is verweerder uitgegaan van een beperkte bedrijfsactiviteit. Naar aanleiding van de door appellant aangevoerde omstandigheid dat hij zich in een schuldsaneringssituatie bevindt, merkt verweerder op dat het besluit erop gericht is herhaling van overtredingen te voorkomen en geen directe financiële gevolgen heeft. Er geldt een beginselplicht tot handhaving. Er zijn geen bijzondere omstandigheden geconstateerd die reden geven om in dit geval af te zien van handhavend optreden.
+
+2.2
+
+Aan het bestreden invorderingsbesluit heeft verweerder ten grondslag gelegd dat op grond van de in processen-verbaal neergelegde verklaringen van de verbalisanten en van appellant genoegzaam vast staat dat appellant op 18 augustus 2019 in de uitoefening van een beroep of bedrijf taxivervoer heeft verricht zonder dat hij in het bezit was van de daarvoor vereiste vergunning. Daarmee heeft appellant opnieuw artikel 76, eerste lid, van de Wp 2000 overtreden. Dit brengt mee dat appellant van rechtswege een dwangsom van € 10.000,- heeft verbeurd. Verweerder heeft dit bedrag naar aanleiding van hetgeen appellant naar voren heeft gebracht in zijn zienswijze en tijdens de hoorzitting van 21 november 2019 bij het primaire invorderingsbesluit gematigd tot een bedrag van € 2.400,-. Verweerder stelt zich voorts op het standpunt dat met de matiging van het oorspronkelijke bedrag van € 10.000,- naar € 2.400,- reeds rekening is gehouden met de financiële en psychische problemen van appellant. Afzien van invorderen of slechts een zeer minimaal bedrag invorderen, zou het opleggen van de last onder dwangsom zinloos maken en daarnaast de beginselplicht tot handhaven teniet doen.
+
+3.1
+
+Appellant heeft ten aanzien van het bestreden dwangsombesluit aangevoerd dat de hoogte van de dwangsom niet in verhouding staat tot de door verweerder hem tegengeworpen overtreding. In zijn geval is sprake van bijzondere omstandigheden die voor verweerder reden hadden moet zijn af te zien van diens bevoegdheid om handhavend op te treden. Appellant is van mening dat verweerder de door hem aangevoerde persoonlijke omstandigheden niet op zorgvuldige wijze bij de beoordeling van het bezwaarschrift heeft betrokken. Naast het feit dat hij in de schuldsanering zit, heeft hij ook psychische problemen waarvoor hij in behandeling is en waarvoor hij medicijnen gebruikt. Ook vreest appellant dat hij door een klein misverstand wederom te maken kan krijgen met verdenking van taxivervoer zonder vergunning, met als gevolg dat de last onder dwangsom verbeurd wordt. Dit zal het traject van de schuldsanering negatief beïnvloeden en daarnaast ervaart appellant van het perspectief op het verbeuren van een dergelijke hoge dwangsom een dusdanig grote druk dat dit zijn psychische gesteldheid eveneens heel negatief beïnvloedt. Daarnaast kan hij, als gevolg van zijn psychische klachten en de medicatie die hij gebruikt, niet goed inschatten wat goed of slecht is voor hem, met als gevolg dat hij beslissingen neemt die voor hem zeer nadelig uitpakken. Hij is dus niet in staat om de consequenties van zijn beslissingen adequaat te overzien. Appellant is daarom van mening dat verweerder ten onrechte niet is ingegaan op zijn betoog dat zijn financiële problemen en psychische problematiek hadden moeten leiden tot matiging van de hoogte van de dwangsom.
+
+3.2
+
+Appellant heeft ten aanzien van het bestreden invorderingsbesluit aangevoerd dat hij betwist dat hij artikel 76, eerste lid, van de Wp 2000 heeft overtreden. Appellant is voor dit feit immers nog niet gedagvaard, waardoor zijn schuld in strafrechtelijke zin niet is vast komen te staan. Ook voor deze procedure kan de schuld van appellant niet worden vastgesteld. De getuigenverklaring waarnaar verwezen wordt, is niet juist en daarom ook niet betrouwbaar. Appellant kan zich verder niet verenigen met de hoogte van het in te vorderen bedrag. Appellant betwist dat er in voldoende mate rekening is gehouden met zijn financiële en psychische problematiek. De hoogte van het in te vorderen bedrag staat nog steeds niet in verhouding tot zijn situatie. Ter onderbouwing van dit standpunt verwijst appellant naar de verklaring van zijn bewindvoerder en naar de verklaring van zijn psychiater waaruit blijkt wat de gevolgen van de invordering zullen zijn voor de psychische gesteldheid van appellant. Verder vindt appellant het niet duidelijk hoe verweerder tot een invorderingsbedrag van € 2.400,- is gekomen. Appellant begrijpt niet waarom het in te vorderen bedrag gegeven zijn situatie niet op nihil is gesteld dan wel verder is gematigd. Verweerder heeft dit niet deugdelijk gemotiveerd. Daarnaast wijst appellant erop dat hij al fors gestraft is door de inbeslagname van zijn auto. Dit gebeurde op 18 augustus 2019. Nadat appellant een klaagschrift had ingediend tegen de inbeslagname van zijn auto, heeft de rechtbank Gelderland op 29 januari 2020 besloten dat appellant zijn auto kon terugkrijgen. Appellant is zijn auto dus voor een lange tijd kwijt geweest. Hiermee dient volgens appellant rekening te worden gehouden. Op basis van het voorgaande concludeert appellant dat het bestreden invorderingsbesluit een zorgvuldige voorbereiding en een deugdelijke motivering ontbeert. Ter zitting heeft appellant voorgesteld dat het invorderingsbedrag in ieder geval gematigd dient te worden als het niet op nihil wordt vastgesteld. Appellant stelt zelf een invorderingsbedrag ter hoogte van € 1.224,- voor, waarbij appellant maandelijks € 51,- moet aflossen voor de duur van twee jaar. Dit sluit beter aan bij de maximale aflossingscapaciteit die appellant heeft.
+
+4.1
+
+In artikel 1 van de Wp 2000 is bepaald dat in deze wet en de daarop berustende bepalingen onder taxivervoer wordt verstaan: personenvervoer per auto tegen betaling, niet zijnde openbaar vervoer.
+
+Ingevolge artikel 75, eerste lid, van de Wp 2000 wordt voor de toepassing van hoofdstuk V (Taxivervoer) en de daarop berustende bepalingen met het verrichten van taxivervoer gelijkgesteld het aanbieden van dat vervoer, tenzij dit aanbieden geschiedt door tussenpersonen die bemiddelen in dat vervoer bij wijze van dienstverlening of in de uitoefening van hun beroep of bedrijf.
+
+In artikel 76, eerste lid, van de Wp 2000 is bepaald dat het verboden is taxivervoer te verrichten zonder een daartoe door de Minister van Infrastructuur en Milieu verleende vergunning.
+
+Ingevolge artikel 93, eerste lid, van de Wp 2000 is de Minister van Infrastructuur en Milieu de handhavende instantie, bedoeld in de artikelen 30 van verordening 1371/2007/EG en 28, eerste lid, van verordening (EU) nr. 181/2011. In artikel 93, tweede lid, van de Wp 2000 wordt bepaald dat de Minister van Infrastructuur en Milieu bevoegd is tot oplegging van een last onder bestuursdwang ter handhaving van verordening 1371/2007/EG, verordening 1071/2009/EG, verordening 1073/2009/EG, verordening (EU) nr. 181/2011 en van de bij of krachtens de Wp 2000 gestelde verplichtingen.
+
+4.2
+
+Ingevolge artikel 5:31d van de Algemene wet bestuursrecht (Awb) wordt onder last onder dwangsom verstaan: de herstelsanctie, inhoudende:
+
+a. een last tot geheel of gedeeltelijk herstel van de overtreding, en
+
+b. de verplichting tot betaling van een geldsom indien de last niet of niet tijdig wordt uitgevoerd.
+
+In artikel 5:32, eerste lid, van de Awb is bepaald dat een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen, in plaats daarvan aan de overtreder een last onder dwangsom kan opleggen.
+
+In artikel 5:37, eerste lid, van de Awb is bepaald dat het bestuursorgaan, alvorens aan te manen tot betaling van de dwangsom, bij beschikking beslist omtrent de invordering van een dwangsom.
+
+4.3
+
+Artikel 1, eerste lid, van de Beleidsregels houdt in dat een last onder dwangsom wordt opgelegd na constatering van een overtreding van een in de bijlage bij deze beleidsregels genoemde bepaling van de Wp 2000 of van het Besluit personenvervoer 2000. In het tweede lid is bepaald dat in de bijlage per soort overtreding de hoogte van de dwangsom en het bedrag waarboven geen dwangsom meer wordt verbeurd, worden vermeld.
+
+Ingevolge artikel 2 van de Beleidsregels bedraagt de looptijd van een last onder dwangsom ter zake van het verrichten van vervoer zonder een daartoe verleende vergunning of in strijd met een daartoe verleende vergunning 2 jaar. (…)
+
+In de Bijlage bij artikel 1 van de Beleidsregels is, onder meer, bepaald dat bij een overtreding bestaand uit het verrichten van taxivervoer zonder een daartoe verleende vergunning de hoogte van de dwangsom per overtreding € 10.000,- bedraagt en de maximumhoogte van de verbeurde dwangsombedragen € 200.000,-.
+
+20/111
+
+5.	Het College overweegt ten aanzien van beroep 1 als volgt.
+
+5.1
+
+Niet in geschil is dat appellant op 3 maart 2019 artikel 76, eerste lid, van de Wp 2000 heeft overtreden. Verweerder was gelet op het bepaalde in artikel 93, tweede lid, van de Wp 2000 in verbinding met artikel 5:32, eerste lid, van de Awb bevoegd om handhavend op te treden door middel van het opleggen van een last onder dwangsom.
+
+5.2
+
+Vervolgens komt het College toe aan de vraag of verweerder de bevoegdheid de last onder dwangsom op te leggen in redelijkheid heeft kunnen uitoefenen. Ten aanzien van de beroepsgronden dat de hoogte van de opgelegde last onvoldoende gemotiveerd en disproportioneel is en dat de bijzondere omstandigheden niet zorgvuldig genoeg zijn meegewogen, overweegt het College als volgt. Het opleggen van een last onder dwangsom heeft ten doel de overtreder te bewegen tot naleving van de voor hem geldende regels. Om dat doel te bereiken kan de hoogte van het bedrag worden afgestemd op het financiële voordeel dat een overtreder kan verwachten bij het niet naleven van deze regels. Naast de kosten die een overtreder bespaart door het illegaal aanbieden van taxivervoer, behaalt een overtreder daarmee financieel voordeel. De bespaarde kosten en het (gemiddelde) financiële voordeel dat een overtreder gemiddeld per jaar kan behalen heeft verweerder in het bestreden besluit voldoende gemotiveerd. Het toepassen van een vermenigvuldigingsfactor op de te behalen omzet, om te voorkomen dat de overtreder in herhaling valt, acht het College in beginsel niet onredelijk. Daarbij is van belang dat verweerder, blijkens het bestreden besluit, in de motivering van de hoogte van de opgelegde last onder dwangsom per overtreding heeft betrokken het gegeven dat een overtreder op beperktere schaal activiteiten verricht dan een regulier taxibedrijf (zie de uitspraak van het College van 20 maart 2014 (ECLI:NL:CBB:2014:104)).
+
+5.3
+
+Gelet op het hiervoor overwogene staat de conform de Beleidsregels opgelegde dwangsom van € 10.000,- per overtreding naar het oordeel van het College niet in onredelijke verhouding tot de zwaarte van het geschonden belang, namelijk de bevordering van de kwaliteit van het taxivervoer door het vereiste van een vergunning, en de beoogde werking van de dwangsom. Appellant heeft geen bijzondere omstandigheden aangevoerd op grond waarvan geoordeeld dient te worden dat de hoogte van de opgelegde dwangsom per overtreding in dit geval disproportioneel is. Verweerder hoefde bij het bepalen van de hoogte van dwangsom in beginsel geen rekening te houden met de financiële draagkracht van appellant. Ook de aangevoerde psychische problematiek van appellant hoefde verweerder niet ervan te weerhouden zijn beginselplicht tot handhaving na te leven en daarom een last onder dwangsom op te leggen.
+
+5.4
+
+Uit het vorenstaande volgt dat het beroep niet slaagt en ongegrond moet worden verklaard. Voor een proceskostenveroordeling bestaat geen aanleiding.
+
+20/524
+
+6.	Het College overweegt ten aanzien van beroep 2 als volgt.
+
+6.1
+
+De vraag moet worden beantwoord of verweerder bevoegd was tot het invorderen van een dwangsom van € 2.400,-. Daartoe moet worden vastgesteld of verweerder terecht heeft geoordeeld dat appellant deze dwangsom heeft verbeurd, omdat hij op 18 augustus 2019 in strijd met de last heeft gehandeld.
+
+6.2
+
+Het is vaste rechtspraak dat een bestuursorgaan, onverminderd de eigen verantwoordelijkheid ten aanzien van het bewijs, in beginsel mag afgaan op de juistheid van de bevindingen in een op ambtseed of ambtsbelofte opgemaakt en ondertekend proces-verbaal, voor zover deze eigen waarnemingen van de opsteller van het proces-verbaal weergeven. Indien die bevindingen worden betwist, zal moeten worden onderzocht of er, gelet op de aard en inhoud van die betwisting, grond bestaat voor zodanige twijfel aan die bevindingen dat deze niet of niet volledig aan de vaststelling van de overtreding ten grondslag kunnen worden gelegd (zie bijvoorbeeld de uitspraak van het College van 7 april 2020, ECLI:NL:CBB:2020:224).
+
+6.3
+
+In hetgeen appellant heeft aangevoerd ziet het College geen aanknopingspunt om aan de juistheid van het hiervoor weergegeven proces-verbaal te twijfelen. Voor het oordeel dat de in het proces-verbaal aanhouding van 30 september 2019 weergegeven bevindingen van de verbalisanten en getuigenverklaringen onjuist zijn of dat deze anderszins onbetrouwbaar zouden zijn, heeft appellant geen aanknopingspunten geleverd. Uit het hiervoor weergegeven proces-verbaal komt duidelijk naar voren dat appellant op 18 augustus 2019 met vier personen is overeengekomen om hen tegen betaling met zijn auto naar de door hen opgegeven bestemming te vervoeren. Het College is dan ook van oordeel dat verweerder zich terecht op het standpunt heeft gesteld dat appellant op 18 augustus 2019 in strijd met de last heeft gehandeld. Het feit dat appellant (nog) niet strafrechtelijk is vervolgd wegens overtreding van artikel 76, eerste lid, van de Wp 2000 maakt dit niet anders. Verweerder heeft dus terecht geoordeeld dat appellant de aan hem opgelegde dwangsom heeft verbeurd zodat verweerder bevoegd was tot het invorderen van een dwangsom.
+
+6.4
+
+Vervolgens komt het College toe aan de vraag of verweerder de bevoegdheid tot het invorderen van de dwangsom in redelijkheid heeft kunnen uitoefenen. Zoals het College al eerder heeft overwogen (zie bijvoorbeeld de uitspraak van het College van 12 maart 2019 (ECLI:NL:CBB:2019:99)) dient bij een besluit omtrent invordering van een verbeurde dwangsom aan het belang van de invordering een zwaarwegend gewicht te worden toegekend. Een andere opvatting zou afdoen aan het gezag dat behoort uit te gaan van een besluit tot oplegging van een last onder dwangsom. Steun voor dit uitgangspunt kan worden gevonden in de geschiedenis van de totstandkoming van artikel 5:37, eerste lid, van de Awb (Tweede Kamer, vergaderjaar 2003-2004, 29 702, nr. 3, blz. 115). Hierin is vermeld dat een adequate handhaving vergt dat opgelegde sancties ook worden geëffectueerd en dus dat verbeurde dwangsommen worden ingevorderd. Slechts in bijzondere omstandigheden kan geheel of gedeeltelijk van invordering worden afgezien. Het bestuursorgaan hoeft bij een besluit omtrent invordering van de verbeurde dwangsom in beginsel geen rekening te houden met de financiële draagkracht van de overtreder. De draagkracht van de overtreder kan immers in de regel pas in de executiefase ten volle worden gewogen en, indien hierover een geschil ontstaat, is de rechter die belast is met de beslechting daarvan bij uitstek in de positie hierover een oordeel te geven. Voor een uitzondering op dit beginsel bestaat slechts aanleiding, indien evident is dat de overtreder gezien zijn financiële draagkracht niet in staat zal zijn de verbeurde dwangsom (volledig) te betalen. Op de overtreder rust de last aannemelijk te maken dat dit het geval is. Hij dient daartoe zodanige informatie te verstrekken dat een betrouwbaar en volledig inzicht wordt verkregen in zijn financiële situatie en de gevolgen die het betalen van de verbeurde dwangsom zou hebben.
+
+6.5
+
+Verweerder is bij de invordering uitgegaan van een bedrag ter hoogte van € 2.400,-, waarbij appellant twee jaar lang € 100,- per maand zou moeten betalen. Hiermee is volgens verweerder reeds rekening gehouden met de financiële en psychische problematiek van appellant. Appellant heeft in bezwaar een verklaring van zijn bewindvoerder van 15 april 2020 overgelegd waaruit blijkt dat hij een aflossingscapaciteit van maximaal € 51,- per maand heeft en dat in december 2020 de gemeentelijke schuldsanering zal eindigen waarna appellant schuldenvrij zou zijn. Ter zitting heeft de gemachtigde van appellant verklaard dat het met het oog op de psychische en financiële omstandigheden van appellant verstandig zou zijn om ofwel van de hele invordering af te zien, ofwel het invorderingsbedrag naar € 1.224,- te matigen, zodat appellant in staat is om het bedrag in twee jaar te betalen.
+
+6.6
+
+Het College is van oordeel dat verweerder in het bestreden invorderingsbesluit onvoldoende rekening heeft gehouden met de financiële draagkracht van appellant nu evident is dat appellant gezien zijn financiële draagkracht niet in staat zal zijn de opgelegde dwangsom van € 2.400,- volledig te betalen gedurende de termijn van twee jaar waarvan verweerder is uitgegaan. Verweerder heeft niet weersproken dat de maximale aflossingscapaciteit van appellant € 51,- per maand bedraagt. Bij het voorgaande komt nog dat de psychiatrische achtergrond van appellant, zoals deze naar voren komt in de door hem overgelegde verklaringen van de behandelend psychiater van 13 november 2019 en van 10 augustus 2020, meebrengt dat een nieuwe financiële beperking extra zwaar voor appellant zal wegen en zijn behandeling en herstel niet ten goede zal komen. Het College is gelet op het voorgaande van oordeel dat een verdere matiging van de dwangsom in dit specifieke geval op zijn plaats is. Het College zal daarom de hoogte van het in te vorderen bedrag vaststellen op € 1.224,-, waarbij appellant twee jaar lang iedere maand € 51,- dient te betalen.
+
+6.7
+
+Uit het vorenstaande blijkt dat beroep 2 gegrond is. Het College zal het bestreden besluit vernietigen wegens strijd met het motiverings- en het zorgvuldigheidsbeginsel. Het College ziet aanleiding om met toepassing van artikel 8:72, derde lid, aanhef en onder b, van de Awb zelf in de zaak te voorzien door het primaire besluit te herroepen en de hoogte van het in te vorderen bedrag vast te stellen op € 1.224,-, waarbij appellant gedurende twee jaar maandelijks € 51,- dient te betalen.
+
+6.8
+
+Gelet op de gegrondverklaring van het beroep zal het College bepalen dat verweerder aan appellant het door hem betaalde griffierecht vergoedt.
+
+6.9
+
+Het College zal verweerder veroordelen in de proceskosten van appellant in bezwaar en beroep. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 2.100,- (1 punt voor het indienen van een bezwaarschrift, 1 punt voor de hoorzitting, 1 punt voor het indienen van een beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1).
+
+Beslissing
+
+20/111
+
+Het College verklaart het beroep ongegrond.
+
+20/524
+
+Het College:
+
+verklaart het beroep gegrond;
+
+vernietigt het bestreden invorderingsbesluit;
+
+herroept het primaire invorderingsbesluit;
+
+stelt de hoogte van het in te vorderen bedrag aan verbeurde dwangsom vast op € 1.224,-, waarbij appellant gedurende twee jaar maandelijks € 51,- dient te betalen;
+
+bepaalt dat deze uitspraak in zoverre in de plaats treedt van het vernietigde bestreden invorderingsbesluit;
+
+draagt verweerder op het betaalde griffierecht van € 178,- aan appellant te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van appellant tot een bedrag van € 2.100,-.
+
+Deze uitspraak is gedaan door mr. H.L. van der Beek, in aanwezigheid van mr. M.H. van Kersbergen, griffier. De beslissing is in het openbaar uitgesproken op 20 oktober 2020.
+
+De voorzitter is verhinderd	                                                             De griffier is verhinderd
+
+de uitspraak te ondertekenen.		de uitspraak te ondertekenen.
