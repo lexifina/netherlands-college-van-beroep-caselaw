@@ -1,0 +1,116 @@
+---
+ecli: "ECLI:NL:CBB:2020:732"
+court: "College van Beroep voor het bedrijfsleven"
+court_code: "CBB"
+docket: "19/1337"
+decided: "2020-10-20"
+published: "2020-10-19"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2020:732"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:CBB:2020:732 College van Beroep voor het bedrijfsleven , 20-10-2020 / 19/1337
+
+## Inhoudsindicatie
+
+GLB. Percelen, verruiging, water, toplaag van geel zand.
+
+## Uitspraak
+
+uitspraak
+
+COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN
+
+zaaknummer: 19/1337
+
+uitspraak van de enkelvoudige kamer van 20 oktober 2020 in de zaak tussen
+Maatschap [naam 1] , te [plaats] , appellante
+(gemachtigde: H. Rietveld),
+
+en
+
+de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder
+(gemachtigde: mr. M.C. Sluimer).
+
+Procesverloop
+
+Bij besluit van 15 februari 2019 (het primaire besluit I) heeft verweerder aan appellante betalingsrechten uit de Nationale reserve toegewezen op grond van de Uitvoeringsregeling rechtstreekse betalingen GLB (Uitvoeringsregeling).
+
+Bij besluit van diezelfde datum (het primaire besluit II) heeft verweerder beslist op de aanvraag van appellante om uitbetaling van de betalingsrechten (de basisbetaling) en de vergroeningsbetaling voor het jaar 2018, eveneens op grond van de Uitvoeringsregeling.
+
+Bij besluit van 31 juli 2019 (het bestreden besluit) heeft verweerder de bezwaren van appellante tegen de primaire besluiten ongegrond verklaard.
+
+Appellante heeft tegen het bestreden besluit beroep ingesteld.
+
+Verweerder heeft een verweerschrift ingediend en op 2 april 2020 heeft hij zijn verweerschrift aangevuld.
+
+Het onderzoek ter zitting heeft plaatsgevonden op 22 september 2020. Appellante heeft zich laten vertegenwoordigen door haar gemachtigde. Aan de kant van appellante zijn tevens verschenen [naam 2] en [naam 3] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.
+
+Overwegingen
+
+1.1
+
+Het College gaat uit van het volgende.
+
+1.2
+
+Met de Gecombineerde opgave 2018 heeft appellante toekenning van betalingsrechten uit de Nationale reserve aangevraagd voor percelen waarvoor in 2015, 2016 of 2017 geen betalingsrechten zijn toegekend omdat hierop op grond van het destijds geldende artikel 2.10, tweede lid, onderdeel a, van de Uitvoeringsregeling een niet-subsidiabele N-code lag. Voorts heeft zij daarbij verzocht om uitbetaling van de basis- en vergroeningsbetaling.
+
+1.3
+
+Bij het primaire besluit I heeft verweerder aan appellante 2,48 betalingsrechten uit de Nationale reserve voor percelen met een niet-subsidiabele N-code toegekend. Bij het primaire besluit II heeft verweerder voor het jaar 2018 het bedrag aan basis- en vergroeningsbetaling vastgesteld. Daarbij is hij uitgegaan van een geconstateerde oppervlakte van 131,57 hectare (ha), wat gelijk staat aan het aantal betalingsrechten waarover appellante volgens verweerder op dat moment beschikte. Hoewel appellante meer subsidiabele hectaren heeft opgegeven, is het aantal beschikbare betalingsrechten bepalend voor de hoogte van de basis- en vergroeningsbetaling. Aan beide besluiten ligt ten grondslag dat verweerder, voor zover hier van belang, de oppervlakte van door appellante in haar Gecombineerde opgave opgegeven percelen 109 tot en met 113, 115 en 116 op 0,00 ha of kleiner dan appellante heeft aangevraagd, heeft vastgesteld.
+
+2. Bij het bestreden besluit heeft verweerder de primaire besluiten gehandhaafd. Hiertoe heeft hij in het bestreden besluit en het verweerschrift (en in de aanvulling daarop) uiteengezet dat uit luchtfoto’s van de percelen 109, 110, 111, 112, 113 (en de daarvan afgesplitste percelen 123 en 124), 115 (en de daarvan afgesplitste percelen 117 en 118) en 116 blijkt dat op deze percelen geen sprake is van natuurlijk grasland. Volgens verweerder is de grond onbeteeld en hebben de percelen een toplaag van geel zand, waardoor geen sprake is van landbouwareaal. Het van perceel 112 afgesplitste perceel 119 staat onder water, zodat dit perceel evenmin kan worden aangemerkt als landbouwareaal. Delen van de van perceel 113 afgesplitste percelen 123 en 124 alsook delen van de percelen 109, 115, 117 en 118 zijn dusdanig verruigd en verstruikt dat geen sprake is van overheersende grassen of andere kruidachtige voedergewassen, zodat deze percelen en perceelsgedeelten om die reden evenmin kunnen worden aangemerkt als subsidiabel landbouwareaal. Verweerder heeft de van perceel 111 afgesplitste percelen 121 en 122 en de van perceel 113 afgesplitste percelen 125 en 126 wel subsidiabel geacht.
+
+3. Appellante voert aan dat de door verweerder afgekeurde percelen en perceelgedeelten natuurlijk grasland zijn. Daartoe heeft zij foto's van de percelen overgelegd, waaruit volgens haar blijkt dat de percelen dienen als landbouwareaal en door rundvee worden begraasd. Weliswaar zijn er enkele struiken en/of bomen zichtbaar die typerend zijn voor het gebied in kwestie, maar het overgrote deel van het gebied bestaat uit grassen en andere kruidachtige voedergewassen. Ten aanzien van de aanwezigheid van geel zand op de luchtfoto's voert appellante aan dat 2018 een zeer droog jaar was. Voor zover verweerder erop heeft gewezen dat appellante gronden heeft ingetekend die op de luchtfoto's onder water staan, voert zij aan dat het gaat om een momentopname. Het gebied kent nu eenmaal schommelingen in het waterpeil.
+
+4.1
+
+Het College stelt vast dat verweerder de aanvraag van appellante om toewijzing van betalingsrechten uit de Nationale reserve heeft beoordeeld aan de hand van artikel 2.9, tweede lid, aanhef en onder d, van de Uitvoeringsregeling. Op grond van deze bepaling wijst de minister, onverminderd artikel 30, zesde en negende lid, van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid (Verordening 1307/2013) op aanvraag tevens betalingsrechten toe uit de Nationale reserve aan de landbouwer, ten aanzien van aanvragen gedaan in 2018 voor wat betreft areaal waarvoor in 2015, 2016 of 2017 geen betalingsrechten zijn toegekend omdat het areaal was uitgesloten op grond van artikel 2.10, tweede lid, onderdeel a, zoals dat artikel luidde tot 1 januari 2018, en dat alsnog als subsidiabele hectare, bedoeld in artikel 32, tweede lid, onderdeel a, van Verordening 1307/2013, kan worden aangemerkt, mits de landbouwer aantoont dat dit areaal in werkelijkheid als landbouwgrond wordt gebruikt.
+
+4.2
+
+Uit het voorgaande volgt dat één van de voorwaarden voor toewijzing van betalingsrechten is dat het areaal alsnog kan worden aangemerkt als subsidiabele hectare, bedoeld in artikel 32, tweede lid, onderdeel a, van Verordening 1307/2013. Onder 'subsidiabele hectare' wordt verstaan ieder landbouwareaal van het bedrijf dat wordt gebruikt voor een landbouwactiviteit of dat, indien het areaal ook voor niet-landbouwactiviteiten wordt gebruikt, overwegend voor landbouwactiviteiten wordt gebruikt. Onder 'landbouwareaal' wordt – voor zover hier van belang – verstaan om het even welke grond die wordt gebruikt als blijvend grasland (artikel 4, eerste lid, onder e, van Verordening 1307/2013). Onder 'blijvend grasland' wordt – voor zover van belang – verstaan grond met een natuurlijke of ingezaaide vegetatie van grassen of andere kruidachtige voedergewassen die ten minste vijf jaar niet in de vruchtwisseling van het bedrijf is opgenomen, en, indien lidstaten daartoe besluiten, die ten minste vijf jaar niet is omgeploegd; andere begraasbare soorten, zoals struiken en/of bomen, en, indien lidstaten daartoe besluiten, andere soorten, zoals struiken en/of bomen die diervoeder produceren, kunnen er deel van uitmaken, mits de grassen en andere kruidachtige voedergewassen blijven overheersen. Voor de toepassing van artikel 4, eerste lid, aanhef en onder h, van Verordening 1307/2013 worden grassen en andere kruidachtige voedergewassen als overheersend beschouwd als zij meer dan 50% van het subsidiabele areaal innemen op het niveau van het landbouwperceel (artikel 6 van Gedelegeerde Verordening (EU) nr. 639/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1307/2013).
+
+De oppervlakte moet daarom, om subsidiabel te zijn, landbouwareaal zijn, deel uitmaken van het bedrijf van de landbouwer en worden gebruikt voor landbouwdoeleinden of bij gelijktijdig ander gebruik overwegend worden gebruikt voor dergelijke doeleinden (vergelijk het arrest van het Hof van Justitie van de Europese Unie van 2 juli 2015, Demmer, C-684/13, ECLI:EU:C:2015:439, p. 54).
+
+5.1
+
+Het College stelt voorop dat appellante verantwoordelijk is voor het doen van een juiste en volledige opgave en het op de juiste wijze intekenen van de perceelsgrenzen. Dat de ter discussie staande percelen in een waterrijk gebied liggen met wisselende waterstanden waardoor de grenzen van de percelen grillig zijn, doet aan die verantwoordelijkheid niet af. Bij de beoordeling van percelen maakt verweerder gebruik van een systeem dat wordt aangeduid als de 'AAN-laag', waarbij gebruik wordt gemaakt van een landsdekkende luchtfoto met een schaal van 1:2500. Het is vaste jurisprudentie van het College dat dit systeem voldoet aan de op grond van artikel 70 van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid gevraagde precisie (zie de uitspraken van het College van 29 mei 2017, ECLI:NL:CBB:2017:197 en 24 juli 2018, ECLI:NL:CBB:2018:387). In beginsel mag verweerder bij het beoordelen van de in het geding zijnde percelen dan ook (enkel) uitgaan van de overgelegde luchtfoto’s.
+
+5.2
+
+Wat betreft de percelen 109, 110, 111, 112, 113 (en de daarvan afgesplitste percelen 123 en 124), 115 (en de daarvan afgesplitste percelen 117 en 118) en 116, moet echter worden geoordeeld dat verweerder niet kon volstaan met een beoordeling van enkel de luchtfoto’s van die percelen en perceelsgedeelten voor zover hij daaruit afleidt dat de grond ervan onbeteeld is en zij een toplaag hebben van geel zand waardoor geen sprake is van natuurlijk grasland. Hoewel op met name de zogenoemde winterfoto’s lichtbruine dan wel witachtige perceelsgedeelten waarneembaar zijn waaruit zou kunnen worden afgeleid dat die percelen inderdaad zijn voorzien van een toplaag van geel zand en in zoverre onbeteeld zijn, volgt die conclusie niet zonder meer uit de zogenoemde zomerfoto’s, omdat daarop ook groene gedeelten zichtbaar zijn. Daarbij komt dat appellante ter zitting aan de hand van haar eigen overgelegde, in het veld genomen, foto’s duidelijk heeft gemaakt dat op de genoemde percelen wel degelijk sprake is van vegetatie waaronder grassen. Deze foto’s bieden bovendien geen aanknopingspunt dat die percelen een toplaag hebben van geel zand. Dat, zoals verweerder heeft aangevoerd, deze foto’s van appellante dateren uit 2019 en het hier gaat om de vraag of de percelen in 2018 landbouwareaal zijn, betekent niet dat in de hier gegeven omstandigheden geen waarde aan die foto’s toekomt. Daarbij acht het College van belang dat als daadwerkelijk sprake zou zijn van een situatie van onbeteelde percelen voorzien van een toplaag van geel zand, niet een vegetatie te zien zou zijn zoals die op de foto’s van appellante is te zien. Bij deze stand van zaken moet worden geoordeeld dat verweerder het bestreden besluit op dit punt niet met de vereiste zorgvuldigheid heeft voorbereid en dat het bestreden besluit in zoverre niet steunt op een deugdelijke motivering.
+
+5.3
+
+Hoewel op luchtfoto’s van delen van de van perceel 113 afgesplitste percelen 123 en 124 en ook op luchtfoto’s van delen van de percelen 109, 115, 117, 118 verruiging en verstruiking zichtbaar is, kan, gelet op wat hiervoor onder 5.2 is overwogen, op basis van die luchtfoto’s niet worden afgeleid dat deze percelen of gedeelten dusdanig zijn verruigd en verstruikt dat er geen sprake is van overheersende grassen of andere kruidachtige voedergewassen. Verweerder heeft het bestreden besluit ook in zoverre niet met de vereiste zorgvuldigheid voorbereid dan wel deugdelijk gemotiveerd.
+
+5.4
+
+Wel onderschrijft het College het standpunt van verweerder dat perceel 119 geen subsidiabel landbouwareaal betreft, omdat uit de luchtfoto’s blijkt dat dit perceel, in afwijking van de omliggende grond, helemaal donker van kleur is, wat erop duidt dat dit perceel onder water staat. Ditzelfde geldt voor het gedeelte van perceel 110 waar verweerder de door appellante ingetekende grens heeft verlegd. Aan de stelling van appellante dat het hoge water slechts een momentopname betreft, gaat het College voorbij omdat zij die stelling niet verder heeft onderbouwd.
+
+6. Uit hetgeen onder 5.2 en 5.3 is overwogen volgt dat het beroep van appellante gegrond is. Het bestreden besluit moet worden vernietigd wegens strijd met het zorgvuldigheids- en motiveringsbeginsel (artikel 3:2 respectievelijk artikel 7:12, eerste lid, van de Algemene wet bestuursrecht). Het College heeft onvoldoende informatie om het geschil finaal te beslechten. Aangezien het bestreden besluit betrekking heeft op zowel de toewijzing van betalingsrechten uit de Nationale reserve als op de uitbetaling van de basis- en vergroeningsbetaling voor het jaar 2018 en het aantal betalingsrechten bepalend is voor de uitbetaling van de basis- en vergroeningsbetaling, zal het College verweerder opdragen om binnen acht weken een nieuw besluit te nemen op de bezwaren van appellante met inachtneming van deze uitspraak.
+
+7. Het College veroordeelt verweerder in de door appellante gemaakte proceskosten. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en een wegingsfactor 1).
+
+Beslissing
+
+Het College:
+
+verklaart het beroep gegrond;
+
+vernietigt het bestreden besluit;
+
+draagt verweerder op binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op de bezwaren van appellante met inachtneming van deze uitspraak;
+
+draagt verweerder op het betaalde griffierecht van € 345,- aan appellante te vergoeden;
+
+- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.050,-.
+
+Deze uitspraak is gedaan door mr. A. Venekamp, in aanwezigheid van mr. C.H.R. Mattheussens, griffier. De beslissing is in het openbaar uitgesproken op 20 oktober 2020.
+
+w.g. A. Venekamp			w.g. C.H.R. Mattheussens
