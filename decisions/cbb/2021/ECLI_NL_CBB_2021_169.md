@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2021:169"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0043", "PJ 2021/32", "JOR 2021/151 met annotatie van Heemskerk, M."]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0043", "PJ 2021/32", "JOR 2021/151 met annotatie van Heemskerk, M.", "PR-Updates.nl 2021-0043"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:8148, Overig"]]
 ---
 
