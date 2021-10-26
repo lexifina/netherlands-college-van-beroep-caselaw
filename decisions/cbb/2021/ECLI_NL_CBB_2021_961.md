@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2021:961"
-published_in: ["Rechtspraak.nl", "NJB 2021/2903", "PR-Updates.nl PR-2021-0199", "PJ 2021/140 met annotatie van S.H. Kuiper", "RF 2021/90", "AB 2022/26 met annotatie van R. Stijnen", "JB 2022/66", "JONDR 2022/135"]
+published_in: ["Rechtspraak.nl", "NJB 2021/2903", "PR-Updates.nl PR-2021-0199", "PJ 2021/140 met annotatie van S.H. Kuiper", "RF 2021/90", "AB 2022/26 met annotatie van R. Stijnen", "JB 2022/66", "JONDR 2022/135", "PR-Updates.nl 2021-0199"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:8138, Overig"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:8139, Overig"]]
 ---
 
