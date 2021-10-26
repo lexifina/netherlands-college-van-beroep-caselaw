@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2021:960"
-published_in: ["Rechtspraak.nl", "ABkort 2021/632", "PR-Updates.nl PR-2021-0200", "JOR 2022/39 met annotatie van Maatman, R.H.", "JONDR 2022/242"]
+published_in: ["Rechtspraak.nl", "ABkort 2021/632", "PR-Updates.nl PR-2021-0200", "JOR 2022/39 met annotatie van Maatman, R.H.", "JONDR 2022/242", "PR-Updates.nl 2021-0200"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:8140, Overig"]]
 ---
 
