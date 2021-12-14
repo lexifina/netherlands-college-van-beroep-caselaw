@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2021:1063"
-published_in: ["Rechtspraak.nl", "NJB 2022/250", "JB 2022/37 met annotatie van Schlössels, R.J.N.", "Ondernemingsrecht 2022/22 met annotatie van A.M.M. Menken", "JOR 2022/64 met annotatie van Nuijten, S.M.C.", "JIN 2022/78 met annotatie van Schlössels, R.J.N.", "PR-Updates.nl PR-2022-0066", "RF 2022/37", "AB 2022/204 met annotatie van R. Stijnen", "JONDR 2022/479"]
+published_in: ["Rechtspraak.nl", "NJB 2022/250", "JB 2022/37 met annotatie van Schlössels, R.J.N.", "Ondernemingsrecht 2022/22 met annotatie van A.M.M. Menken", "JOR 2022/64 met annotatie van Nuijten, S.M.C.", "JIN 2022/78 met annotatie van Schlössels, R.J.N.", "PR-Updates.nl PR-2022-0066", "RF 2022/37", "AB 2022/204 met annotatie van R. Stijnen", "JONDR 2022/479", "PR-Updates.nl 2022-0066"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:1486, Overig"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:1487, Overig"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:1488, Overig"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:1489, Overig"]]
 ---
 
