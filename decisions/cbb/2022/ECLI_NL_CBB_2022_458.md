@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2022:458"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0144", "PJ 2022/98", "ABkort 2022/402"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0144", "PJ 2022/98", "ABkort 2022/402", "PR-Updates.nl 2022-0144"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2020:12098, Overig"]]
 ---
 
