@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2023:453"
 published_in: ["Rechtspraak.nl", "RF 2023/88", "JONDR 2024/71", "JOR 2024/40 met annotatie van mr. V.H. Affourtit"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:13747"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:13747"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:152"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:295"]]
 ---
 
 # ECLI:NL:CBB:2023:453 College van Beroep voor het bedrijfsleven , 29-08-2023 / 21/1507 t/m 21/1509, 22/11, 22/846
