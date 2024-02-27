@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2024:126"
 published_in: ["Rechtspraak.nl", "NJB 2024/579", "SEW 2024/74, p. 236"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:9297, Overig"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:9297, Overig"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:652"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:327"]]
 ---
 
 # ECLI:NL:CBB:2024:126 College van Beroep voor het bedrijfsleven , 27-02-2024 / 22/2540, 22/2559, 22/2580, 22/2585, 22/2597, 22/2599 en 23/655
