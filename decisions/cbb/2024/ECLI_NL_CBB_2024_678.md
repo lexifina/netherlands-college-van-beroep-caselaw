@@ -10,7 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2024:678"
 published_in: ["Rechtspraak.nl", "SEW 2024/169, p. 562"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:3053, Overig"]]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:960"]]
 ---
 
 # ECLI:NL:CBB:2024:678 College van Beroep voor het bedrijfsleven , 08-10-2024 / 21/562 en 21/903
