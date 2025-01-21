@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:24"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2025-0014", "PJ 2025/27 met annotatie van T. Huijg"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2025-0014", "PJ 2025/27 met annotatie van T. Huijg", "PR-Updates.nl 2025-0014"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:4574, Overig"]]
 ---
 
