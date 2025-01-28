@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:33"
 published_in: ["Rechtspraak.nl", "RF 2025/15", "JOR 2025/115 met annotatie van mr. W.M.A. Pronk", "JONDR 2025/321"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:9932, Overig"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:9932, Overig"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:112"]]
 ---
 
 # ECLI:NL:CBB:2025:33 College van Beroep voor het bedrijfsleven , 28-01-2025 / 22/2646
