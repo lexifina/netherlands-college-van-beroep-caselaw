@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:342"
-published_in: ["Rechtspraak.nl", "RF 2025/57", "JONDR 2025/845"]
+published_in: ["Rechtspraak.nl", "RF 2025/57", "JONDR 2025/845", "JOR 2026/102 met annotatie van mr. V.H. Affourtit", "JONDR 2026/492"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:12464, Overig"]]
 ---
 
