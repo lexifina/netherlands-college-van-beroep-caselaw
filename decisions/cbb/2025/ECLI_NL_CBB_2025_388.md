@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:388"
-published_in: ["Rechtspraak.nl", "JW 2025/48"]
+published_in: ["Rechtspraak.nl", "JW 2025/48", "AB 2026/158 met annotatie van S.A. Gawronski"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:6494, Overig"]]
 ---
 
