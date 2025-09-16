@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:475"
-published_in: ["Rechtspraak.nl", "ABkort 2025/184", "NJB 2025/2485", "JB 2025/219 met annotatie van T.N. Sanders"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/184", "NJB 2025/2485", "JB 2025/219 met annotatie van T.N. Sanders", "JIN 2026/85 met annotatie van T.N. Sanders"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:11678, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
