@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:509"
-published_in: ["Rechtspraak.nl", "ABkort 2025/202", "NJB 2025/2580", "JB 2026/15 met annotatie van mr. dr. M.K.G. Tjepkema"]
+published_in: ["Rechtspraak.nl", "ABkort 2025/202", "NJB 2025/2580", "JB 2026/15 met annotatie van mr. dr. M.K.G. Tjepkema", "JIN 2026/86 met annotatie van mr. dr. M.K.G. Tjepkema"]
 ---
 
 # ECLI:NL:CBB:2025:509 College van Beroep voor het bedrijfsleven , 02-10-2025 / 22/1816
