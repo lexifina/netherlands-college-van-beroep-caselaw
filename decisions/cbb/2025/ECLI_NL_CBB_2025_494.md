@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:494"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TvAR 2026/8253 met annotatie van G.M. van den Broek"]
 ---
 
 # ECLI:NL:CBB:2025:494 College van Beroep voor het bedrijfsleven , 02-10-2025 / 22/1800
