@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2025:586"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/195 met annotatie van J.E. van den Brink"]
 ---
 
 # ECLI:NL:CBB:2025:586 College van Beroep voor het bedrijfsleven , 04-11-2025 / 24/434 en 24/435
