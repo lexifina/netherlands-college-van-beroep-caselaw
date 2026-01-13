@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:2"
-published_in: ["Rechtspraak.nl", "JB 2026/44 met annotatie van mr. J.H. Roelfsema"]
+published_in: ["Rechtspraak.nl", "JB 2026/44 met annotatie van mr. J.H. Roelfsema", "JIN 2026/132 met annotatie van mr. J.H. Roelfsema"]
 ---
 
 # ECLI:NL:CBB:2026:2 College van Beroep voor het bedrijfsleven , 13-01-2026 / 25/444
