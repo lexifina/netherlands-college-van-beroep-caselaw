@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:17"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/109 met annotatie van T.N. Sanders"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:1893, Overig"]]
 ---
 
