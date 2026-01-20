@@ -10,7 +10,6 @@ procedure: "Geheimhoudingsbeslissing"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:15"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:9009, Overig"]]
 cites_law: ["netherlands/national/acts/awb/art-08-029.md"]
 ---
 
