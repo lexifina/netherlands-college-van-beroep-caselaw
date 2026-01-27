@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:27"
-published_in: ["Rechtspraak.nl", "ABkort 2026/47"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/47", "JB 2026/89 met annotatie van mr. L.J.M. Timmermans"]
 ---
 
 # ECLI:NL:CBB:2026:27 College van Beroep voor het bedrijfsleven , 27-01-2026 / 24/1105
