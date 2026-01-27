@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:22"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TvAR 2026/8251 met annotatie van H.A. van Bommel"]
 ---
 
 # ECLI:NL:CBB:2026:22 College van Beroep voor het bedrijfsleven , 27-01-2026 / 23/983, 24/407, 24/449 en 24/450
