@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:25"
-published_in: ["Rechtspraak.nl", "JOR 2026/75 met annotatie van mr. L.W. Spelten", "RF 2026/23"]
+published_in: ["Rechtspraak.nl", "JOR 2026/75 met annotatie van mr. L.W. Spelten", "RF 2026/23", "JONDR 2026/404"]
 ---
 
 # ECLI:NL:CBB:2026:25 College van Beroep voor het bedrijfsleven , 27-01-2026 / 24/131
