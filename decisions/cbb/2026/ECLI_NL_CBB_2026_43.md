@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:43"
-published_in: ["Rechtspraak.nl", "ABkort 2026/59", "JB 2026/63"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/59", "JB 2026/63", "Gst. 2026/52 met annotatie van W.P. Adriaanse"]
 ---
 
 # ECLI:NL:CBB:2026:43 College van Beroep voor het bedrijfsleven , 03-02-2026 / 23/1956, 24/732, 25/373 en 25/374
