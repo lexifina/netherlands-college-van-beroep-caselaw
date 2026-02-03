@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:31"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/146 met annotatie van C.M.M. van Mil"]
 ---
 
 # ECLI:NL:CBB:2026:31 College van Beroep voor het bedrijfsleven , 03-02-2026 / 24/536
