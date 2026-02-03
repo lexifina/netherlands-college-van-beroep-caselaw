@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:39"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/326"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:10734, Overig"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/326", "V-N 2026/23.20.35"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:10734, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:CBB:2026:39 College van Beroep voor het bedrijfsleven , 03-02-2026 / 23/2041
