@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:57"
 published_in: ["Rechtspraak.nl", "ABkort 2026/58", "Douanerechtspraak 2026/31"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:3393, Overig"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:3393, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:CBB:2026:57 College van Beroep voor het bedrijfsleven , 17-02-2026 / 23/1298
