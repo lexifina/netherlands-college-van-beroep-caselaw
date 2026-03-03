@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:75"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/24 met annotatie van mr. M.O. Meulenbelt"]
 ---
 
 # ECLI:NL:CBB:2026:75 College van Beroep voor het bedrijfsleven , 03-03-2026 / 25/301
