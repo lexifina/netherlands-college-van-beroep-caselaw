@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:92"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/72 met annotatie van mr. S. Pieters"]
 cites_law: ["netherlands/national/acts/regeling-dierlijke-producten/art-02-004.md", "netherlands/national/acts/wet-dieren/art-06-002.md"]
 ---
 
