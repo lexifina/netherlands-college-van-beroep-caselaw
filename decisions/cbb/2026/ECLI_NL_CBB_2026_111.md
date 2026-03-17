@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:111"
-published_in: ["Rechtspraak.nl", "ABkort 2026/99"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/99", "JB 2026/90", "AB 2026/223 met annotatie van R. Stijnen"]
 ---
 
 # ECLI:NL:CBB:2026:111 College van Beroep voor het bedrijfsleven , 17-03-2026 / 23/1367
