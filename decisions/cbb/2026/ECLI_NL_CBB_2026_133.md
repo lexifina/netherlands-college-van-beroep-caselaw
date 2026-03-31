@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:133"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JW 2026/51"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:11162, Overig"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:10662, Overig"]]
 ---
 
