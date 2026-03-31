@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:134"
-published_in: ["Rechtspraak.nl", "ABkort 2026/97"]
+published_in: ["Rechtspraak.nl", "ABkort 2026/97", "JB 2026/91"]
 ---
 
 # ECLI:NL:CBB:2026:134 College van Beroep voor het bedrijfsleven , 31-03-2026 / 24/548 en 24/898
