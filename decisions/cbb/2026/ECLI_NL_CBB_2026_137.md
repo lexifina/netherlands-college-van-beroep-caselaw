@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:137"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJB 2026/876"]
 ---
 
 # ECLI:NL:CBB:2026:137 College van Beroep voor het bedrijfsleven , 07-04-2026 / 24/148
