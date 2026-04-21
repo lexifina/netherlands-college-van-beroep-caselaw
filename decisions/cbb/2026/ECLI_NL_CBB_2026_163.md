@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:CBB:2026:163"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/71 met annotatie van mr. S. Pieters"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2025:208, Overig"]]
 ---
 
