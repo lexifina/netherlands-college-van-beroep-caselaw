@@ -1,5 +1,7 @@
 # Dutch case law: College van Beroep voor het bedrijfsleven
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the College van Beroep voor het bedrijfsleven, Netherlands, which global-law reads at `netherlands/college-van-beroep/caselaw/`.
+
 Every decision of College van Beroep voor het bedrijfsleven that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 15,537 decisions from 1996-02-01 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/college-van-beroep/caselaw`.
